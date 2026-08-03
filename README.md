@@ -1,4 +1,4 @@
-# Funarchy Governance
+![alt text](assets/funarchy-banner.png)
 
 ## Who is writing this
 
