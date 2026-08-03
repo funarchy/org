@@ -10,13 +10,20 @@ This document outlines how Funarchy's governance evolves from founder-led, to fe
 
 | Phase | Period | Duration | Key Transition |
 |-------|--------|----------|-----------------|
-| **Founder-Led Phase** | Sep 2026 – Feb 2027 | 6 months | Register, publish governance, recruit first cooperators |
-| **Federated Phase** | Feb 2027 – Aug 2027+ | 6–12 months | Decision-making moves to domain leads |
-| **Assembly Phase** | Aug 2027+ | Ongoing | Decision-making moves to the community assembly |
+| **Founder-Led Phase** | Sep 2026 – second domain carved (est. Feb 2027) | ~6 months (est.) | Register, publish governance, recruit first cooperators |
+| **Federated Phase** | from the second carved domain (est. 2027) | 6–12 months (est.) | Decision-making moves to leads of carved domains |
+| **Assembly Phase** | est. Aug 2027+ | Ongoing | Decision-making moves to the community assembly |
+
+Phase transitions are events, not dates. Funarchy's domain map starts
+coarse - technology (the Founder) and operations (the Partner), the
+founding domains - and finer domains are carved from it as real work
+demands. The first carve is delegation; the Federated Phase begins at
+the second, when consensus among leads becomes possible. The dates
+are estimates and stay estimates.
 
 ---
 
-## Founder-Led Phase (Sep 2026 – Feb 2027)
+## Founder-Led Phase (Sep 2026 – until the second domain is carved)
 
 ### Goals
 
@@ -71,11 +78,11 @@ This document outlines how Funarchy's governance evolves from founder-led, to fe
 
 ---
 
-## Federated Phase (Feb 2027 – Aug 2027+)
+## Federated Phase (begins when the second domain is carved; estimated 2027)
 
 ### Goals
 
-- Organize into semi-autonomous domain teams (Infrastructure, Education, Governance/Community)
+- Let semi-autonomous domains be carved from real work, through the amendment process
 - Transition decision-making from founder-led to domain-lead consensus
 - Scale team (3–5 active cooperators)
 - Establish sustainable revenue (SaaS + consulting + donations)
@@ -83,7 +90,10 @@ This document outlines how Funarchy's governance evolves from founder-led, to fe
 
 ### Transition Trigger
 
-**Founder-Led Phase → Federated Phase happens when:**
+**Founder-Led Phase → Federated Phase happens when the second domain
+is carved via the amendment process.** That event is the switch: the
+first carve is delegation inside the Founder-Led Phase; the second
+makes consensus among leads real. Signs the organization is ready:
 - Cooperativa is stably registered (2+ months in)
 - At least 1–2 cooperators recruited and productive
 - Revenue streams beginning to flow (even small amounts)
@@ -92,21 +102,20 @@ This document outlines how Funarchy's governance evolves from founder-led, to fe
 
 ### Governance Structure: Federated Phase
 
-**Domain Teams:**
-1. **Infrastructure (Space, RPPS, scenepad)**
-   - Lead: [TBD, recruit from cooperators]
-   - Members: developers, DevOps
-   - Responsibilities: stability, performance, hosting, deployment
-
-2. **Education (Type Space, curriculum, future educational tools)**
-   - Lead: [TBD, recruit from cooperators]
-   - Members: curriculum designers, educators, developers
-   - Responsibilities: pedagogy, content, learning outcomes
-
-3. **Governance/Community (Bylaws, decision-making, outreach, fundraising)**
-   - Lead: [TBD, the Founder initially, hand off in the Assembly Phase]
-   - Members: community organizers, writers, fundraisers
-   - Responsibilities: charter amendments, community health, grants/donations
+**Domain Carving:**
+- Funarchy always has a domain map; it starts as the two founding
+  domains - technology (the Founder) and operations (the Partner)
+- Domains are carved, not pre-designed: a new domain is cut from the
+  map by the people doing real work in it, and its lead is not a
+  Founder
+- Anyone may propose a carve via the amendment process
+  ([04-amendment-process.md](04-amendment-process.md))
+- The proposal must show three things: sustained real work already
+  happening in the area, more than one person doing it, and someone
+  willing to lead whom the others accept
+- No numeric thresholds - judged at the decision step, case by case
+- The approving amendment defines the domain's scope, its lead, and
+  how the lead is replaced; it is recorded in `amendment-log.md`
 
 **Decision-Making:**
 - Domain-internal: Domain lead decides (with team input)
@@ -115,19 +124,20 @@ This document outlines how Funarchy's governance evolves from founder-led, to fe
 - Charter amendments: 2-week discussion, leads + the Founder approve
 
 **Multi-Sig Wallet:**
-- Add domain leads as signers (federated control)
+- Add leads of carved domains as signers, as domains are carved (federated control)
 - Transactions require 2-of-3 or 2-of-4 approval (Founder + Partner + leads)
 
 ### Milestones & Deadlines
 
-**February 2027 (Transition Begin)**
-- [ ] Identify and recruit domain leads (from early cooperators or community)
-- [ ] Formally establish three domains with charters and responsibilities
-- [ ] Add domain leads to multi-sig wallet (new 2-of-4 or 2-of-3)
-- [ ] Document domain decision-making process
+**Transition Begin (estimated early 2027)**
+- [ ] First domain carved via the amendment process (delegation - still the Founder-Led Phase)
+- [ ] Second domain carved - the Federated Phase begins
+- [ ] Add leads of carved domains to the multi-sig wallet (new 2-of-3 or 2-of-4)
+- [ ] Document what the first carves taught us; refine the mechanism if it hurt
+- [ ] Further domains carved the same way, as real work demands
 
-**Feb – August 2027 (Stabilization)**
-- [ ] Each domain publishes monthly updates (progress, decisions, blockers)
+**Stabilization (estimated through 2027)**
+- [ ] Each carved domain publishes monthly updates (progress, decisions, blockers)
 - [ ] Cross-domain decisions made via consensus (test process, iterate)
 - [ ] Expand team to 3–5 cooperators (paid or honorariums)
 - [ ] Space hosting revenue grows (3–5 customers, ~2–3K/month)
@@ -135,7 +145,7 @@ This document outlines how Funarchy's governance evolves from founder-led, to fe
 - [ ] Grants/donations grow to 2–3K/month
 - [ ] Community contributions increase (20+ active contributors, regular PRs/issues)
 
-**August 2027+ (Assembly Phase Trigger)**
+**Assembly Phase Trigger (estimated August 2027+)**
 - [ ] Team and community are stable; decisions are genuinely federated
 - [ ] Governance processes are predictable and well-documented
 - [ ] Revenue is sustainable (covering salary + basic operations)
@@ -143,11 +153,11 @@ This document outlines how Funarchy's governance evolves from founder-led, to fe
 
 ### Success Criteria: Federated Phase
 
-- ✅ Three domain teams established with identified leads
+- ✅ At least two domains carved via the amendment process (more only as real work demanded them)
 - ✅ Domain leads making decisions independently (not escalating everything to the Founder)
 - ✅ Multi-sig wallet controlled by leads (federated signings)
 - ✅ 3–5 cooperators actively contributing
-- ✅ Monthly domain updates published
+- ✅ Monthly updates published by each carved domain
 - ✅ Revenue streams growing (3–5K/month total)
 - ✅ 20+ active community contributors
 - ✅ Charter amendments process tested (1–2 successful amendments filed)
@@ -180,7 +190,7 @@ This document outlines how Funarchy's governance evolves from founder-led, to fe
 - All members + invited contributors (open to community input)
 - Decides: strategic direction, budget, major projects, charter amendments, member admission
 
-**Domain Teams (still semi-autonomous):**
+**Carved domains (still semi-autonomous):**
 - Routine decisions (implementation, timelines, hiring within domain) → domain leads decide
 - Cross-domain decisions → assembly votes
 - Strategic decisions → assembly votes
@@ -227,7 +237,8 @@ This document outlines how Funarchy's governance evolves from founder-led, to fe
 
 ## How We Know We're Ready to Move Phases
 
-**Founder-Led Phase → Federated Phase triggers:**
+**Founder-Led Phase → Federated Phase trigger: the second domain is
+carved (via the amendment process).** Readiness signs:
 - Cooperativa registered (✓ legal)
 - 1–2 cooperators recruited (✓ team)
 - Revenue starting (✓ financial)

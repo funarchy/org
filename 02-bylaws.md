@@ -53,7 +53,7 @@ The cooperative is established for an indefinite period.
 
 ### Article 6: Admitting New Members
 - Founder-Led Phase: the Founder approves new members (with Partner/Adviser input)
-- Federated Phase: Domain leads + Founder reach consensus
+- Federated Phase: leads of carved domains + the Founder reach consensus
 - Assembly Phase: the community assembly votes on new members
 - All new members must sign the charter agreement and pledge to uphold the five principles
 
@@ -61,9 +61,10 @@ The cooperative is established for an indefinite period.
 
 ## III. Governance Phases & Decision-Making
 
-### Article 7: Founder-Led Phase (Months 1–6)
+### Article 7: Founder-Led Phase
 
-**Period:** September 2026 – February 2027
+**Period:** September 2026 until the second domain is carved under
+Article 8 (estimated ~6 months)
 
 **Decision-Making:**
 - The Founder makes strategic decisions
@@ -77,8 +78,9 @@ Founder," it is thereafter exercised by the Founder and the Partner
 together; strategic decisions require the agreement of both, and the
 treasury converts to two-signature control in the same act (Article 11).
 If the two cannot agree, no change is made: the status quo holds and the
-disagreement goes to mediation. Day-to-day authority is split by domain -
-the Founder over technology, the Partner over operations. **The detailed
+disagreement goes to mediation. Day-to-day authority is split into the
+two founding domains - the Founder over technology, the Partner over
+operations - the first, coarse version of the cooperative's domain map. **The detailed
 partnership terms are co-written with the Partner as one of the first
 joint acts.**
 
@@ -89,13 +91,26 @@ joint acts.**
 - Establish treasury and transparent reporting
 - Begin revenue streams (SaaS, consulting)
 
-### Article 8: Federated Phase (Months 6–18)
+### Article 8: Federated Phase
 
-**Period:** February 2027 – August 2027+
+**Period:** begins when the second domain is carved under this
+article (estimated 2027)
 
 **Structure:**
-- Three domains: Infrastructure, Education, Governance/Community
-- Each domain has a lead (early cooperators or members)
+- The cooperative always has a domain map; it starts as the two
+  founding domains of Article 7 - technology (the Founder) and
+  operations (the Partner)
+- Domains are carved, not pre-designed: a new domain is carved from
+  the map through the amendment process (Article 10) by the people
+  already doing the work, and its lead is not a Founder
+- A carve proposal must show sustained real work in the area, more
+  than one person doing it, and a lead whom the others accept; there
+  are no numeric thresholds - the decision step judges case by case
+- The approving amendment defines the domain's scope, its lead, and
+  how the lead is replaced
+- The first carved domain is delegation within the Founder-Led Phase;
+  this phase begins at the second, when consensus among leads becomes
+  possible
 - Leads make decisions within their domain
 - Cross-domain decisions: leads + Founder reach consensus
 
@@ -105,7 +120,8 @@ joint acts.**
 - Charter amendments: 2-week discussion, leads + Founder approve
 
 **Governance Evolution:**
-- Treasury multi-sig adds domain leads as signers (federated control)
+- Treasury multi-sig adds leads of carved domains as signers, as
+  domains are carved (federated control)
 - Bylaws amendments filed quarterly with the Serbian registry
 
 ### Article 9: Assembly Phase (18+ months)
@@ -180,7 +196,7 @@ phase rules of Articles 7–9 and are recorded in the decision log.
 **Wallet:**
 - Founder-Led Phase start: single-signer stablecoin wallet with every transaction published monthly
 - On Partner joining: upgraded to 2-of-2 multi-sig (Founder + Partner) as the first joint governance act
-- Federated Phase: domain leads added as signers
+- Federated Phase: leads of carved domains added as signers, as domains are carved
 - All transactions public on-chain
 
 **Funding Sources:**

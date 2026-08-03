@@ -109,7 +109,7 @@ goodwill.
 
 ## Decision-Making by Phase
 
-### Founder-Led Phase (Sep 2026 – Feb 2027)
+### Founder-Led Phase (Sep 2026 – until the second domain is carved)
 
 **Who decides?** The Founder, with input from the Partner, the Founding Adviser, and the community.
 
@@ -127,7 +127,8 @@ read "the Founders, jointly" - strategic decisions require both, the
 treasury requires both keys (the 2-of-2 multi-sig upgrade is the same
 event), and disagreement means the change doesn't happen: status quo
 holds, then mediation. Day-to-day, each runs their own half - the Founder
-technology, the Partner operations. **The detailed partnership terms are
+technology, the Partner operations: the two **founding domains**, the
+first, coarse version of Funarchy's domain map. **The detailed partnership terms are
 co-written with the Partner as one of the first joint acts - this seat is
 not pre-designed; its occupant designs it.**
 
@@ -136,9 +137,11 @@ not pre-designed; its occupant designs it.**
 - Early-stage decisions are foundational; they're hard to reverse
 - Small group reduces coordination overhead while building trust
 
-### Federated Phase (Feb 2027 – 18+ months)
+### Federated Phase (begins when the second domain is carved; estimated 2027)
 
-**Who decides?** Domain leads (Infrastructure, Education, Governance/Community) + the Founder.
+**Who decides?** Leads of carved domains + the Founder.
+
+**Domains are carved, not pre-designed.** Funarchy always has a domain map; it starts coarse - technology (the Founder) and operations (the Partner), the founding domains. A new domain is carved from that map by the people doing real work in it, through the same pollution → solution pipeline as any other governance change. A carve proposal must show three things: sustained real work already happening in the area, more than one person doing it, and someone willing to lead whom the others accept. No numeric thresholds - it is judged at the decision step, case by case. The approving amendment defines the domain's scope, its lead, and how the lead is replaced, and is recorded in `amendment-log.md`. The first carved domain is delegation - still the Founder-Led Phase. This phase begins at the second, because federation means more than one lead: only then does "leads reach consensus" mean anything. The switch is the event, not the calendar.
 
 **How:**
 1. Pollutions and solutions flow exactly as before - the mechanics never change between phases
@@ -146,7 +149,7 @@ not pre-designed; its occupant designs it.**
 3. Cross-domain decisions: leads reach consensus (the Founder breaks ties if needed)
 4. Strategic decisions: same as the Founder-Led Phase, but leads decide instead of the Founder alone
 
-**Scope:** Each domain is semi-autonomous; decisions affecting multiple domains or the whole cooperative need consensus.
+**Scope:** Each carved domain is semi-autonomous; decisions affecting multiple domains or the whole cooperative need consensus.
 
 **This phase decentralizes because:**
 - Organization is larger; founder-led bottlenecks emerge

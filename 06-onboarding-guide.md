@@ -46,41 +46,45 @@ Read (in order):
 
 **Tasks:**
 - [ ] GitHub access: added to organization
-- [ ] Slack/Discord: in main + domain channels
+- [ ] Slack/Discord: in the team channels
 - [ ] Password manager: shared credentials
 - [ ] Crypto wallet: set up for first paycheck (jkbo walks you through)
-- [ ] Calendar: recurring meetings (weekly domain sync, bi-weekly all-hands, monthly 1-on-1)
+- [ ] Calendar: recurring meetings (weekly team sync, bi-weekly all-hands, monthly 1-on-1)
 
 **If anything doesn't work, ask. We fix it.**
 
 ---
 
-## Week 2–3: Learning Your Domain
+## Week 2–3: Your First Project
 
-### Infrastructure Team
+Funarchy's domain map is still coarse - two founding domains:
+technology (the Founder) and operations (the Partner). Finer domains
+get carved from real work later, through the amendment process (see
+[03-roadmap.md](03-roadmap.md)). Until then, anyone works on
+anything.
 
-**First project:** Deploy and maintain a Space instance
+Pick a first project with jkbo - something small, real, and shippable
+in your first weeks. Examples:
+
+**Infrastructure-flavored:** Deploy and maintain a Space instance
 - Read: the Space README
 - Task: Deploy a test Space instance on Hetzner (with guidance)
 - Goal: Understand infrastructure; be ready for customer deployments
 
-### Education Team
+**Product-flavored:** Improve a product being open-sourced
+- Task: Pick one item from a product's extraction/documentation
+  backlog (see [products/](products/README.md)) and land it
+- Goal: Get hands-on with the stack; leave it better than you found it
 
-**First project:** Review existing curriculum
-- Task: Propose 1–2 improvements or additions (small, doable in a day)
-- Goal: Understand pedagogy; contribute to content direction
-
-### Governance Team
-
-**First project:** Facilitate one discussion
-- Task: Run a GitHub discussion on a governance topic (TBD with jkbo)
+**Community-flavored:** Facilitate one discussion
+- Task: Run a public-forum discussion on a governance topic (TBD with jkbo)
 - Goal: Get comfortable with community engagement
 
 ---
 
 ## Month 1: Settling In
 
-### Weekly Domain Syncs (30–60 min)
+### Weekly Team Sync (30–60 min)
 
 **Agenda:**
 - What did you do this week?
@@ -92,11 +96,11 @@ Read (in order):
 **Who:** Whole organization  
 **Agenda:**
 - Announcements, updates, celebrations
-- Cross-domain issues (decisions needed)
+- Open issues (decisions needed)
 - Financial update (treasury report)
 - Open discussion
 
-### 1-on-1 with Domain Lead (30 min, monthly)
+### 1-on-1 with jkbo (30 min, monthly)
 
 **Agenda:**
 - How are you doing? (honestly, not just work)
@@ -127,8 +131,8 @@ Read (in order):
 ## Your First Month Checklist
 
 - [ ] Completed 5 days of orientation (team call, reading, culture call, tech setup)
-- [ ] Learned your domain (read docs, deployed/created something small)
-- [ ] Attended 2 domain syncs, 1 all-hands
+- [ ] Shipped your first project (read docs, deployed/created something small)
+- [ ] Attended 2 weekly syncs, 1 all-hands
 - [ ] Received your first paycheck
 - [ ] Had your month-1 values check-in
 - [ ] Know who to ask when stuck
@@ -139,7 +143,7 @@ Read (in order):
 ## How to Get Unblocked
 
 **Technical question?**
-- First: Ask in domain Slack channel
+- First: Ask in the team Slack channel
 - Second: Open a GitHub issue
 - Third: Grab jkbo/relevant person for a quick sync
 
@@ -149,7 +153,7 @@ Read (in order):
 - Third: Bring it up in all-hands or monthly 1-on-1
 
 **Concern (I disagree, feel exploited, burnt out)?**
-- Immediately: Tell domain lead or jkbo (1-on-1, private)
+- Immediately: Tell jkbo (1-on-1, private)
 - Option: Request external mediation
 - Outcome: We fix it or change the situation
 
@@ -161,7 +165,7 @@ Read (in order):
 - **Code/Projects:** the Space source, `math/`, `scenepad/`
 - **Communication:** Slack/Discord
 - **Decisions:** `decisions.md` (why we chose X)
-- **People:** jkbo, domain lead, other cooperators
+- **People:** jkbo, the Partner, other cooperators
 
 ---
 
