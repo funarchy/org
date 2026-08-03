@@ -10,7 +10,7 @@
 |-------|--------|---------|---------|
 | Founder-Led Phase | Single-signer stablecoin wallet | Founder | Launch |
 | Partner joins | Gnosis-Safe-style 2-of-2 multi-sig | Founder + Partner | First joint governance act |
-| Federated Phase | Multi-sig 2-of-3 / 2-of-4 | Founder + Partner + leads of carved domains (added as domains are carved) | Federated governance |
+| Federated Phase | Multi-sig 2-of-3 / 2-of-4 | Founder + Partner + stewards of carved domains (added as domains are carved) | Federated governance |
 
 Single-signer at start is a pragmatic compromise: transparency comes from publishing every transaction monthly with on-chain links, not from signature count. The multi-sig upgrade is deliberately framed as the **first joint act** with the Partner - it makes shared control real on day one of the partnership.
 
@@ -35,7 +35,7 @@ Single-signer at start is a pragmatic compromise: transparency comes from publis
 
 ## Adding Signers (Federated Phase)
 
-1. Safe → Settings → Owners → Add Owner (domain lead's address)
+1. Safe → Settings → Owners → Add Owner (domain steward's address)
 2. Adjust threshold (e.g., 2-of-3, 2-of-4)
 3. Existing signers approve the change on-chain
 4. Update this document

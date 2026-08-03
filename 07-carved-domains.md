@@ -40,12 +40,14 @@ points:
 1. *Sustained real work:* months of extraction, releases, and docs,
    all visible in the public record.
 2. *More than one person:* Mira and Toma, both active weekly.
-3. *An accepted lead:* Mira is willing; Toma explicitly supports.
+3. *An accepted steward:* Mira already holds the responsibility in
+   practice - the releases, the reviews, the roadmap calls are hers
+   before any title exists. Toma explicitly supports naming it.
 
 The proposed text defines the domain's scope (the scenepad monorepo,
-its releases, its roadmap), its lead (Mira), and how the lead is
-replaced (chosen by the domain's active contributors, confirmed at
-the decision step of the current phase).
+its releases, its roadmap), its steward (Mira), and how the steward
+is replaced (chosen by the domain's active contributors, confirmed
+at the decision step of the current phase).
 
 **The decision.** Two-week discussion window, then the Founders
 approve with written rationale. The amendment lands in the public
@@ -53,8 +55,8 @@ record and is recorded in `amendment-log.md`.
 
 **The map after.**
 
-| Domain | Lead |
-|--------|------|
+| Domain | Steward |
+|--------|---------|
 | scenepad | Mira |
 | technology (founding, minus scenepad) | the Founder |
 | operations (founding) | the Partner |
@@ -86,7 +88,8 @@ of the public forum, contributor onboarding, and outreach. The test:
 1. *Sustained real work:* months of moderation and triage, visible
    in the forum's own history.
 2. *More than one person:* Dana and Rui.
-3. *An accepted lead:* Dana, with Rui's support on the proposal.
+3. *An accepted steward:* Dana already carries the work; Rui
+   supports her stewardship on the proposal itself.
 
 **The decision.** The phase decider at that moment is still the
 Founders (one carved domain so far). Discussion, then approval with
@@ -94,8 +97,8 @@ rationale; recorded in `amendment-log.md`.
 
 **The map after.**
 
-| Domain | Lead |
-|--------|------|
+| Domain | Steward |
+|--------|---------|
 | scenepad | Mira |
 | community | Dana |
 | technology (founding, minus carves) | the Founder |
@@ -123,7 +126,9 @@ step:
 1. *Sustained real work:* none yet - the proposal describes work
    that would begin after approval.
 2. *More than one person:* only Rei.
-3. *An accepted lead:* there is nobody to do the accepting.
+3. *An accepted steward:* there is nobody to do the accepting - and
+   no held responsibility to accept. Rei asks for leadership;
+   stewardship cannot be asked for.
 
 **The decision.** Rejected, calmly, with written rationale: "A
 domain is carved around work that already happens; it is never a
@@ -133,9 +138,12 @@ If the work becomes real and shared, propose the carve again and it
 will likely pass."
 
 **What it shows.** The test has teeth, and rejection is not
-punishment. Starting work needs no domain, no title, and no
-approval - that is Permissionlessness. The domain, if it ever
-exists, is recognition of work, not the cause of it.
+punishment. Rei asked to *lead*; a steward is named for
+responsibility already *held* - recognized after the fact, never
+granted to whoever seeks the position. Starting work needs no
+domain, no title, and no approval - that is Permissionlessness. The
+domain, if it ever exists, is recognition of work, not the cause of
+it.
 
 ---
 

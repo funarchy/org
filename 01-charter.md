@@ -126,7 +126,7 @@ co-founders. From that day, wherever these documents say "the Founder,"
 read "the Founders, jointly" - strategic decisions require both, the
 treasury requires both keys (the 2-of-2 multi-sig upgrade is the same
 event), and disagreement means the change doesn't happen: status quo
-holds, then mediation. Day-to-day, each runs their own half - the Founder
+holds, then mediation. Day-to-day, each stewards their own half - the Founder
 technology, the Partner operations: the two **founding domains**, the
 first, coarse version of Funarchy's domain map. **The detailed partnership terms are
 co-written with the Partner as one of the first joint acts - this seat is
@@ -139,15 +139,15 @@ not pre-designed; its occupant designs it.**
 
 ### Federated Phase (begins when the second domain is carved; estimated 2027)
 
-**Who decides?** Leads of carved domains + the Founder.
+**Who decides?** Stewards of carved domains + the Founder.
 
-**Domains are carved, not pre-designed.** Funarchy always has a domain map; it starts coarse - technology (the Founder) and operations (the Partner), the founding domains. A new domain is carved from that map by the people doing real work in it, through the same pollution → solution pipeline as any other governance change. A carve proposal must show three things: sustained real work already happening in the area, more than one person doing it, and someone willing to lead whom the others accept. No numeric thresholds - it is judged at the decision step, case by case. The approving amendment defines the domain's scope, its lead, and how the lead is replaced, and is recorded in `amendment-log.md`. The first carved domain is delegation - still the Founder-Led Phase. This phase begins at the second, because federation means more than one lead: only then does "leads reach consensus" mean anything. The switch is the event, not the calendar. If this feels abstract, [07-carved-domains.md](07-carved-domains.md) walks through worked examples - two carves that pass the test, and one that fails it.
+**Domains are carved, not pre-designed.** Funarchy always has a domain map; it starts coarse - technology (the Founder) and operations (the Partner), the founding domains. A new domain is carved from that map by the people doing real work in it, through the same pollution → solution pipeline as any other governance change. A carve proposal must show three things: sustained real work already happening in the area, more than one person doing it, and someone already taking and holding responsibility for the area, whom the others accept. That person becomes the domain's **steward** - stewardship is recognition of responsibility already held; the work exists first, the role names it. No numeric thresholds - it is judged at the decision step, case by case. The approving amendment defines the domain's scope, its steward, and how the steward is replaced, and is recorded in `amendment-log.md`. The first carved domain is delegation - still the Founder-Led Phase. This phase begins at the second, because federation means more than one steward: only then does "stewards reach consensus" mean anything. The switch is the event, not the calendar. If this feels abstract, [07-carved-domains.md](07-carved-domains.md) walks through worked examples - two carves that pass the test, and one that fails it.
 
 **How:**
 1. Pollutions and solutions flow exactly as before - the mechanics never change between phases
-2. Domain-internal decisions: the lead decides, with team input
-3. Cross-domain decisions: leads reach consensus (the Founder breaks ties if needed)
-4. Strategic decisions: same as the Founder-Led Phase, but leads decide instead of the Founder alone
+2. Domain-internal decisions: the steward decides, with team input
+3. Cross-domain decisions: stewards reach consensus (the Founder breaks ties if needed)
+4. Strategic decisions: same as the Founder-Led Phase, but stewards decide instead of the Founder alone
 
 **Scope:** Each carved domain is semi-autonomous; decisions affecting multiple domains or the whole cooperative need consensus.
 
@@ -185,6 +185,12 @@ not pre-designed; its occupant designs it.**
 - We invest in onboarding and mentorship (not just task assignment)
 - We celebrate people who help others grow
 
+### How Roles Are Held
+
+- Responsibility over leadership: roles are earned by proactively taking and holding responsibility, never granted to those who seek position
+- A steward is recognized after the fact - the work exists first, the role names it
+- Every role is revocable; how it is replaced is defined when the role is created
+
 ### How We Make Decisions
 
 - We start from problems, not prescriptions - pollutions name what hurts; solutions compete to answer them
@@ -217,7 +223,7 @@ This charter is alive. It changes as we learn and grow.
 1. Report the pollution - what hurts, who it affects, cost of not fixing, acceptance criteria
 2. Propose the solution - the exact new text, answering the pollution
 3. Discussion window: 2 weeks (or longer for major changes)
-4. Decision: the Founder (Founder-Led Phase), domain-lead consensus (Federated Phase), or assembly vote (Assembly Phase)
+4. Decision: the Founder (Founder-Led Phase), steward consensus (Federated Phase), or assembly vote (Assembly Phase)
 5. If approved, the solution lands in this document and is recorded in `amendment-log.md`
 
 Full pipeline: [04-amendment-process.md](04-amendment-process.md).

@@ -150,8 +150,8 @@ The handshake, per the current governance phase:
   (one paragraph minimum). Once the partnership begins, "the Founder"
   reads "the Founders, jointly" - both must agree, and a deadlock means
   the status quo holds.
-- **Federated Phase:** the relevant domain leads reach consensus and
-  record it.
+- **Federated Phase:** the relevant domain stewards reach consensus
+  and record it.
 - **Assembly Phase:** the assembly votes per the voting mechanism.
 
 The verdict - approved or rejected, by whom, and why - is recorded on the

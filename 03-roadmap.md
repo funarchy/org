@@ -11,15 +11,15 @@ This document outlines how Funarchy's governance evolves from founder-led, to fe
 | Phase | Period | Duration | Key Transition |
 |-------|--------|----------|-----------------|
 | **Founder-Led Phase** | Sep 2026 – second domain carved (est. Feb 2027) | ~6 months (est.) | Register, publish governance, recruit first cooperators |
-| **Federated Phase** | from the second carved domain (est. 2027) | 6–12 months (est.) | Decision-making moves to leads of carved domains |
+| **Federated Phase** | from the second carved domain (est. 2027) | 6–12 months (est.) | Decision-making moves to stewards of carved domains |
 | **Assembly Phase** | est. Aug 2027+ | Ongoing | Decision-making moves to the community assembly |
 
 Phase transitions are events, not dates. Funarchy's domain map starts
 coarse - technology (the Founder) and operations (the Partner), the
 founding domains - and finer domains are carved from it as real work
 demands. The first carve is delegation; the Federated Phase begins at
-the second, when consensus among leads becomes possible. The dates
-are estimates and stay estimates.
+the second, when consensus among stewards becomes possible. The
+dates are estimates and stay estimates.
 
 ---
 
@@ -83,7 +83,7 @@ are estimates and stay estimates.
 ### Goals
 
 - Let semi-autonomous domains be carved from real work, through the amendment process
-- Transition decision-making from founder-led to domain-lead consensus
+- Transition decision-making from founder-led to steward consensus
 - Scale team (3–5 active cooperators)
 - Establish sustainable revenue (SaaS + consulting + donations)
 - Test and refine governance mechanisms for the Assembly Phase
@@ -93,7 +93,7 @@ are estimates and stay estimates.
 **Founder-Led Phase → Federated Phase happens when the second domain
 is carved via the amendment process.** That event is the switch: the
 first carve is delegation inside the Founder-Led Phase; the second
-makes consensus among leads real. Signs the organization is ready:
+makes consensus among stewards real. Signs the organization is ready:
 - Cooperativa is stably registered (2+ months in)
 - At least 1–2 cooperators recruited and productive
 - Revenue streams beginning to flow (even small amounts)
@@ -106,35 +106,37 @@ makes consensus among leads real. Signs the organization is ready:
 - Funarchy always has a domain map; it starts as the two founding
   domains - technology (the Founder) and operations (the Partner)
 - Domains are carved, not pre-designed: a new domain is cut from the
-  map by the people doing real work in it, and its lead is not a
+  map by the people doing real work in it, and its steward is not a
   Founder
 - Anyone may propose a carve via the amendment process
   ([04-amendment-process.md](04-amendment-process.md))
 - The proposal must show three things: sustained real work already
   happening in the area, more than one person doing it, and someone
-  willing to lead whom the others accept
+  already taking and holding responsibility for the area, whom the
+  others accept - that person becomes the domain's steward
 - No numeric thresholds - judged at the decision step, case by case
-- The approving amendment defines the domain's scope, its lead, and
-  how the lead is replaced; it is recorded in `amendment-log.md`
+- The approving amendment defines the domain's scope, its steward,
+  and how the steward is replaced; it is recorded in
+  `amendment-log.md`
 - Worked examples of carves - including one that fails the test:
   [07-carved-domains.md](07-carved-domains.md)
 
 **Decision-Making:**
-- Domain-internal: Domain lead decides (with team input)
-- Cross-domain: Leads + the Founder reach consensus
-- Strategic (budget, major projects, member admission): Consensus among all leads + the Founder
-- Charter amendments: 2-week discussion, leads + the Founder approve
+- Domain-internal: Domain steward decides (with team input)
+- Cross-domain: Stewards + the Founder reach consensus
+- Strategic (budget, major projects, member admission): Consensus among all stewards + the Founder
+- Charter amendments: 2-week discussion, stewards + the Founder approve
 
 **Multi-Sig Wallet:**
-- Add leads of carved domains as signers, as domains are carved (federated control)
-- Transactions require 2-of-3 or 2-of-4 approval (Founder + Partner + leads)
+- Add stewards of carved domains as signers, as domains are carved (federated control)
+- Transactions require 2-of-3 or 2-of-4 approval (Founder + Partner + stewards)
 
 ### Milestones & Deadlines
 
 **Transition Begin (estimated early 2027)**
 - [ ] First domain carved via the amendment process (delegation - still the Founder-Led Phase)
 - [ ] Second domain carved - the Federated Phase begins
-- [ ] Add leads of carved domains to the multi-sig wallet (new 2-of-3 or 2-of-4)
+- [ ] Add stewards of carved domains to the multi-sig wallet (new 2-of-3 or 2-of-4)
 - [ ] Document what the first carves taught us; refine the mechanism if it hurt
 - [ ] Further domains carved the same way, as real work demands
 
@@ -156,8 +158,8 @@ makes consensus among leads real. Signs the organization is ready:
 ### Success Criteria: Federated Phase
 
 - ✅ At least two domains carved via the amendment process (more only as real work demanded them)
-- ✅ Domain leads making decisions independently (not escalating everything to the Founder)
-- ✅ Multi-sig wallet controlled by leads (federated signings)
+- ✅ Domain stewards making decisions independently (not escalating everything to the Founder)
+- ✅ Multi-sig wallet controlled by stewards (federated signings)
 - ✅ 3–5 cooperators actively contributing
 - ✅ Monthly updates published by each carved domain
 - ✅ Revenue streams growing (3–5K/month total)
@@ -180,7 +182,7 @@ makes consensus among leads real. Signs the organization is ready:
 
 **Federated Phase → Assembly Phase happens when:**
 - Team is stable (3–5+ cooperators, predictable turnover)
-- Domain-lead consensus is working well (decisions are made, not stalled)
+- Steward consensus is working well (decisions are made, not stalled)
 - Community is engaged (20+ active, regular participation)
 - Revenue is sustainable (covering budget without adviser support)
 - Founder + Partner agree: ready for broader community governance
@@ -193,7 +195,7 @@ makes consensus among leads real. Signs the organization is ready:
 - Decides: strategic direction, budget, major projects, charter amendments, member admission
 
 **Carved domains (still semi-autonomous):**
-- Routine decisions (implementation, timelines, hiring within domain) → domain leads decide
+- Routine decisions (implementation, timelines, hiring within domain) → domain stewards decide
 - Cross-domain decisions → assembly votes
 - Strategic decisions → assembly votes
 
@@ -205,8 +207,8 @@ makes consensus among leads real. Signs the organization is ready:
 
 **Power Transition:**
 - The Founder's role: coordinator → advisor → emeritus (by year 2+)
-- The Partner's role: operational co-lead → advisor (same arc)
-- Leadership vacuum filled by elected or delegated representatives (chosen by assembly)
+- The Partner's role: operations steward → advisor (same arc)
+- Vacated roles filled by elected or delegated representatives (chosen by assembly)
 
 ### Milestones & Deadlines
 
@@ -220,7 +222,7 @@ makes consensus among leads real. Signs the organization is ready:
 **Year 2+ (Stabilization)**
 - [ ] Assembly meetings regular and well-attended (50%+ of members)
 - [ ] Decisions are genuinely made by community (not rubber-stamped by the Founder)
-- [ ] New members feel empowered to lead
+- [ ] New members proactively take and hold responsibility
 - [ ] Multiple people can run the org if the Founder steps back
 - [ ] Governance model is documented well enough for forks/adoption elsewhere
 
@@ -230,8 +232,8 @@ makes consensus among leads real. Signs the organization is ready:
 - ✅ 50%+ of members actively participating in decisions
 - ✅ Voting mechanism designed and deployed
 - ✅ The Founder's decision-making power is <10% (advisory only)
-- ✅ New leaders have emerged (not dependent on founders)
-- ✅ Charter amendments driven by community (not leadership)
+- ✅ New stewards have emerged (not dependent on founders)
+- ✅ Charter amendments driven by community (not the founders)
 - ✅ Revenue is sustainable without adviser support
 - ✅ Governance model is replicable (documented, adopted by other orgs)
 
@@ -245,7 +247,7 @@ carved (via the amendment process).** Readiness signs:
 - 1–2 cooperators recruited (✓ team)
 - Revenue starting (✓ financial)
 - Community engaged (✓ social)
-- Founder + Partner agree (✓ leadership consent)
+- Founder + Partner agree (✓ founders' consent)
 
 **Federated Phase → Assembly Phase triggers:**
 - Domains are self-directing (✓ decentralization)
@@ -261,8 +263,8 @@ carved (via the amendment process).** Readiness signs:
 **Risk:** Founder burnout in the Founder-Led Phase  
 **Mitigation:** Recruit first cooperators early (Aug/Sep 2026); delegate by October
 
-**Risk:** Federated Phase domain leads don't actually lead (the Founder still decides)  
-**Mitigation:** Explicitly delegate budget authority to leads; track decision metrics
+**Risk:** Federated Phase domain stewards don't actually steward (the Founder still decides)  
+**Mitigation:** Explicitly delegate budget authority to stewards; track decision metrics
 
 **Risk:** the Assembly Phase is chaotic or makes poor decisions  
 **Mitigation:** Test voting mechanism with low-stakes decisions in the Federated Phase; iterate before the Assembly Phase

@@ -53,7 +53,7 @@ The cooperative is established for an indefinite period.
 
 ### Article 6: Admitting New Members
 - Founder-Led Phase: the Founder approves new members (with Partner/Adviser input)
-- Federated Phase: leads of carved domains + the Founder reach consensus
+- Federated Phase: stewards of carved domains + the Founder reach consensus
 - Assembly Phase: the community assembly votes on new members
 - All new members must sign the charter agreement and pledge to uphold the five principles
 
@@ -102,25 +102,27 @@ article (estimated 2027)
   operations (the Partner)
 - Domains are carved, not pre-designed: a new domain is carved from
   the map through the amendment process (Article 10) by the people
-  already doing the work, and its lead is not a Founder
+  already doing the work, and its steward is not a Founder
 - A carve proposal must show sustained real work in the area, more
-  than one person doing it, and a lead whom the others accept; there
-  are no numeric thresholds - the decision step judges case by case
-- The approving amendment defines the domain's scope, its lead, and
-  how the lead is replaced
+  than one person doing it, and someone already taking and holding
+  responsibility for the area, whom the others accept; that person
+  becomes the domain's steward. There are no numeric thresholds -
+  the decision step judges case by case
+- The approving amendment defines the domain's scope, its steward,
+  and how the steward is replaced
 - The first carved domain is delegation within the Founder-Led Phase;
-  this phase begins at the second, when consensus among leads becomes
-  possible
-- Leads make decisions within their domain
-- Cross-domain decisions: leads + Founder reach consensus
+  this phase begins at the second, when consensus among stewards
+  becomes possible
+- Stewards make decisions within their domain
+- Cross-domain decisions: stewards + Founder reach consensus
 
 **Decision-Making:**
-- Domain-internal: Lead decides (with team input)
-- Cross-domain: Consensus among leads + Founder
-- Charter amendments: 2-week discussion, leads + Founder approve
+- Domain-internal: Steward decides (with team input)
+- Cross-domain: Consensus among stewards + Founder
+- Charter amendments: 2-week discussion, stewards + Founder approve
 
 **Governance Evolution:**
-- Treasury multi-sig adds leads of carved domains as signers, as
+- Treasury multi-sig adds stewards of carved domains as signers, as
   domains are carved (federated control)
 - Bylaws amendments filed quarterly with the Serbian registry
 
@@ -131,7 +133,7 @@ article (estimated 2027)
 **Structure:**
 - Quarterly or monthly community assembly (async + sync)
 - All major decisions voted on by assembly
-- Delegation to domain leads for routine decisions
+- Delegation to domain stewards for routine decisions
 
 **Decision-Making:**
 - Major decisions (budget, new projects, charter amendments): assembly vote
@@ -168,7 +170,7 @@ Funarchy amends its governing rules through a problem-first process:
    public record
 4. **Discuss:** 2-week discussion window (longer for major changes)
 5. **Decide:** Founder-Led Phase: the Founder | Federated Phase:
-   domain-lead consensus | Assembly Phase: assembly vote
+   steward consensus | Assembly Phase: assembly vote
 6. **File:** approved amendments filed with the Serbian registry
    (quarterly or as needed)
 7. **Publish:** amendment history recorded in
@@ -196,7 +198,7 @@ phase rules of Articles 7–9 and are recorded in the decision log.
 **Wallet:**
 - Founder-Led Phase start: single-signer stablecoin wallet with every transaction published monthly
 - On Partner joining: upgraded to 2-of-2 multi-sig (Founder + Partner) as the first joint governance act
-- Federated Phase: leads of carved domains added as signers, as domains are carved
+- Federated Phase: stewards of carved domains added as signers, as domains are carved
 - All transactions public on-chain
 
 **Funding Sources:**
@@ -241,7 +243,7 @@ Published on the 1st of each month in the public record:
 ### Article 14: Disagreements & Escalation
 
 1. **Founder-Led Phase:** the Founder consults Partner/Adviser and proposes resolution
-2. **Federated Phase:** Domain leads seek consensus; if stuck, the Founder mediates
+2. **Federated Phase:** Domain stewards seek consensus; if stuck, the Founder mediates
 3. **Assembly Phase:** the community assembly votes on the dispute
 
 Unresolved disputes may require external mediation (process defined in the Federated Phase).
