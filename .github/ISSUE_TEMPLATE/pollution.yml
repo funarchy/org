@@ -1,0 +1,39 @@
+name: Pollution
+description: 'A problem: harm, friction, unclearance. Describe the problem - not the solution.'
+labels: ['type: pollution']
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: "What's polluted"
+      description: 'The problem as observed. No prescribed solutions here.'
+    validations:
+      required: true
+  - type: textarea
+    id: affects
+    attributes:
+      label: Who it affects and how
+      description: 'Members, cooperators, community, outsiders - and what it does to them.'
+    validations:
+      required: true
+  - type: textarea
+    id: cost
+    attributes:
+      label: Cost of not fixing
+      description: 'What we keep paying while this lives.'
+    validations:
+      required: true
+  - type: textarea
+    id: criteria
+    attributes:
+      label: Acceptance criteria
+      description: 'How we know the pollution is gone.'
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution (optional)
+      description: 'Only to clarify the picture - not a call to action. The solution decides.'
+    validations:
+      required: false
