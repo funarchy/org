@@ -116,6 +116,8 @@ makes consensus among leads real. Signs the organization is ready:
 - No numeric thresholds - judged at the decision step, case by case
 - The approving amendment defines the domain's scope, its lead, and
   how the lead is replaced; it is recorded in `amendment-log.md`
+- Worked examples of carves - including one that fails the test:
+  [07-carved-domains.md](07-carved-domains.md)
 
 **Decision-Making:**
 - Domain-internal: Domain lead decides (with team input)

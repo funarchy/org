@@ -73,6 +73,7 @@ care - expect these to change:
 | [Amendment Process](04-amendment-process.md) | How anyone proposes a change to the charter, bylaws, or roadmap - and how it gets decided and filed. |
 | [Treasury Wallet](05-treasury-wallet.md) | How the money is held and who can move it, from single-signer through federated multi-sig. |
 | [Onboarding Guide](06-onboarding-guide.md) | A new cooperator's first month. |
+| [Carved Domains](07-carved-domains.md) | Worked examples of how domains get carved from real work - illustrations, not plans. |
 
 **Living records** (unnumbered - appended to, not read in sequence):
 
