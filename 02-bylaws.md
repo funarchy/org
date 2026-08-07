@@ -2,11 +2,14 @@
 
 **Legal Entity:** Workers' Cooperative (Zadruga)  
 **Jurisdiction:** Serbia  
-**Effective Date:** [To be filed September 2026]
+**Effective Date:** [filed at cooperativa registration - an event, not a date; see the legal-form ladder in [03-roadmap.md](03-roadmap.md)]
 
 > This is the open working draft. People appear as roles (Founder, Founding Adviser,
 > Partner, cooperators); the filed Serbian version substitutes legal identities and
-> is translated with legal counsel.
+> is translated with legal counsel. **These bylaws have no legal force until the
+> cooperativa is registered.** Until then the charter alone governs - as a promise
+> between people, which is what it is either way. This draft exists so that the
+> translation into Serbian law is ready when cooperators exist to file it.
 
 ## I. Founding & Core Purpose
 

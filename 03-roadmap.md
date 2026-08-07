@@ -30,12 +30,34 @@ estimates.
 
 ### Goals
 
-- Register cooperativa with Serbian authorities
+- Establish legal footing as an event-driven ladder (see below); cooperativa registration happens when cooperators exist to register it - it is not a launch gate
 - Publish bylaws, charter, and governance roadmap
 - Begin releasing the core products as stable open-source projects (per-product targets: [products/](products/README.md))
 - Recruit first 1–2 cooperators
 - Establish the treasury (single-signer with public reporting; multi-sig when the Partner joins) and first revenue streams
 - Build public trust and community presence
+
+### Legal Form: An Event-Driven Ladder
+
+Like the treasury (single-signer → multi-sig) and the Partner seat
+(open → filled by recognition), the legal form upgrades on events,
+not dates. The entity names a reality that already exists; it never
+precedes it.
+
+| Stage | Legal form | Covers | Trigger |
+|-------|-----------|--------|---------|
+| Now | None - the Founder personally | Code, governance, community | already here |
+| First revenue | The Founder's preduzetnik | Invoicing (SaaS, consulting), basic liability | first paying customer |
+| Cooperators exist | Cooperativa (zadruga) | Shared legal ownership, the treasury held by the entity | enough cooperators to register (legal minimum: verify with counsel) |
+
+Honest notes:
+- Until an entity holds the treasury, donated funds are legally the
+  Founder's personal income. The monthly reports make this visible
+  rather than hiding it; a fiscal host is the interim option if
+  donations grow beyond small amounts.
+- Registering a cooperative without cooperators would be the entity
+  preceding the reality - the same mistake as recruiting a Partner
+  instead of recognizing one.
 
 ### Decision-Making Structure
 
@@ -53,8 +75,8 @@ estimates.
 - [ ] Set up the treasury wallet (single-signer; multi-sig upgrade on Partner joining - see [05-treasury-wallet.md](05-treasury-wallet.md))
 - [ ] Create the governance document structure (this repository)
 
-**September 2026 (Registration & Launch)**
-- [ ] File cooperativa registration with Serbian Ministry of Economy
+**September 2026 (Launch)**
+- [ ] Legal footing: verify the Founder's preduzetnik is active and usable for invoicing; evaluate a fiscal host for donations (see the legal-form ladder above)
 - [ ] Publish bylaws, charter, roadmap in the public record (currently GitHub - see [tooling.md](tooling.md))
 - [ ] Release Space and RPPS as stable projects (documentation, guides); scenepad extraction continues
 - [ ] Publish blog post series (three posts: vision, finance, governance)
@@ -71,7 +93,7 @@ estimates.
 
 ### Success Criteria: Founder-Led Phase
 
-- ✅ Cooperativa legally registered in Serbia
+- ✅ Legal footing matches the ladder stage: every active revenue stream runs through a registered form; treasury custody stated honestly in monthly reports
 - ✅ Bylaws, charter, roadmap live and public
 - ✅ Treasury funded and transparent (monthly public reports)
 - ✅ Space and RPPS stable and documented; scenepad extraction well underway
@@ -97,7 +119,7 @@ estimates.
 is carved via the amendment process.** That event is the switch: the
 first carve is delegation inside the Founder-Led Phase; the second
 makes consensus among stewards real. Signs the organization is ready:
-- Cooperativa is stably registered (2+ months in)
+- Cooperativa registered and stable - the ladder's last rung, reached because cooperators existed to register it
 - At least 1–2 cooperators recruited and productive
 - Revenue streams beginning to flow (even small amounts)
 - Community interest and contributions growing (10+ active community members)
