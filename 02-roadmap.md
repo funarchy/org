@@ -72,7 +72,7 @@ Honest notes:
 - [ ] Partner track: ongoing and event-driven, never a gate - the seat fills by recognition of operations responsibility already held (see [01-charter.md](01-charter.md)); no other milestone waits on it
 - [ ] First-cooperator track: arrange the employer contract (3–12 months, projects touching Funarchy's open-source products)
 - [ ] Draft bylaws and charter (this repo, reviewed with the Founding Adviser and legal counsel)
-- [ ] Set up the treasury wallet (single-signer; multi-sig upgrade on Partner joining - see [05-treasury-wallet.md](05-treasury-wallet.md))
+- [ ] Set up the treasury wallet (single-signer; multi-sig upgrade on Partner joining - see [04-treasury-wallet.md](04-treasury-wallet.md))
 - [ ] Create the governance document structure (this repository)
 
 **September 2026 (Launch)**
@@ -134,7 +134,7 @@ makes consensus among stewards real. Signs the organization is ready:
   map by the people doing real work in it, and its steward is not a
   Founder
 - Anyone may propose a carve via the amendment process
-  ([04-amendment-process.md](04-amendment-process.md))
+  ([03-amendment-process.md](03-amendment-process.md))
 - The proposal must show three things: sustained real work already
   happening in the area, more than one person doing it, and someone
   already taking and holding responsibility for the area, whom the
@@ -144,7 +144,7 @@ makes consensus among stewards real. Signs the organization is ready:
   and how the steward is replaced; it is recorded in
   `amendment-log.md`
 - Worked examples of carves - including one that fails the test:
-  [07-carved-domains.md](07-carved-domains.md)
+  [06-carved-domains.md](06-carved-domains.md)
 
 **Decision-Making:**
 - Domain-internal: Domain steward decides (with team input)
@@ -298,7 +298,7 @@ carved (via the amendment process).** Readiness signs:
 **Mitigation:** Async participation options; incentivize with recognition, small grants, or decision impact
 
 **Risk:** Donations arrive while the treasury is single-signer (no counterweight on outflows)  
-**Mitigation:** Every transaction published monthly with on-chain links; the multi-sig upgrade is the first joint act when the Partner joins ([05-treasury-wallet.md](05-treasury-wallet.md))
+**Mitigation:** Every transaction published monthly with on-chain links; the multi-sig upgrade is the first joint act when the Partner joins ([04-treasury-wallet.md](04-treasury-wallet.md))
 
 **Risk:** The solo start becomes comfortable; the Partner seat stays open indefinitely  
 **Mitigation:** The seat fills from public work, not recruitment - operations gaps are named honestly in monthly reports, so responsibility has something visible to accrete around

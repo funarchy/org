@@ -9,7 +9,7 @@ a tool means changing one line here and recording the change in
 |---|---|
 | **The public record** | This git repository (canonical remote: github.com/funarchy; mirrors: to be added) |
 | **The public forum** | GitHub Issues on the canonical remote |
-| **The treasury** | See [05-treasury-wallet.md](05-treasury-wallet.md) and `treasury-address.md` |
+| **The treasury** | See [04-treasury-wallet.md](04-treasury-wallet.md) and `treasury-address.md` |
 
 ## Why this indirection
 
@@ -33,5 +33,5 @@ would be lost - only conversation history.
    (lock-in, censorship risk, cost, friction).
 2. Propose the replacement as a solution; include the migration plan for
    any open discussions.
-3. Decide per the current phase rules ([04-amendment-process.md](04-amendment-process.md)).
+3. Decide per the current phase rules ([03-amendment-process.md](03-amendment-process.md)).
 4. Update the table above and record the change in `amendment-log.md`.
