@@ -111,15 +111,25 @@ goodwill.
 
 ### Founder-Led Phase (Sep 2026 – until the second domain is carved)
 
-**Who decides?** The Founder, with input from the Partner, the Founding Adviser, and the community.
+**Who decides?** The Founder, with input from the Founding Adviser, the community, and - once joined - the Partner.
 
 **How:**
 1. Anyone (including the Founder) reports a pollution or proposes a solution in the public forum
 2. Community discusses for 1 week
 3. The Founder decides, recording rationale in `decisions.md`
-4. If community strongly disagrees, escalate to Partner/Adviser mediation
+4. If community strongly disagrees, escalate to mediation by the Founding Adviser (and the Partner, once joined)
 
 **Scope:** Strategic direction, new projects, budget allocation, member admission.
+
+**This phase begins solo.** The Partner seat is open and is filled by
+recognition, not recruitment - like every role in Funarchy, it names
+responsibility already held: sustained, real operations work done
+alongside the Founder, by someone the Founder accepts as an equal
+counterweight. The work does not wait for the seat to fill; until the
+Partner joins, the Founder decides alone and the treasury runs
+single-signer with every transaction published (see
+[05-treasury-wallet.md](05-treasury-wallet.md)). The Partner joining
+is an event within this phase, not a phase of its own.
 
 **When the Partner joins:** the Founder and the Partner govern as
 co-founders. From that day, wherever these documents say "the Founder,"

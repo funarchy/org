@@ -52,7 +52,7 @@ The cooperative is established for an indefinite period.
 - Contribute to cooperative's mission (minimum: governance participation)
 
 ### Article 6: Admitting New Members
-- Founder-Led Phase: the Founder approves new members (with Partner/Adviser input)
+- Founder-Led Phase: the Founder approves new members (with input from the Adviser, and the Partner once joined)
 - Federated Phase: stewards of carved domains + the Founder reach consensus
 - Assembly Phase: the community assembly votes on new members
 - All new members must sign the charter agreement and pledge to uphold the five principles
@@ -68,7 +68,7 @@ Article 8 (estimated ~6 months)
 
 **Decision-Making:**
 - The Founder makes strategic decisions
-- The Partner and Founding Adviser provide input
+- The Founding Adviser provides input (and the Partner, once joined - the phase begins solo, with the Partner seat open)
 - Anyone may report pollutions and propose solutions in the public forum (Article 10); the Founder retains the final decision
 - Process: pollution → public priority (assigned by the Founder) → solution → 1-week discussion → decision → recorded in the decision log
 
@@ -242,7 +242,7 @@ Published on the 1st of each month in the public record:
 
 ### Article 14: Disagreements & Escalation
 
-1. **Founder-Led Phase:** the Founder consults Partner/Adviser and proposes resolution
+1. **Founder-Led Phase:** the Founder consults the Adviser (and the Partner, once joined) and proposes resolution
 2. **Federated Phase:** Domain stewards seek consensus; if stuck, the Founder mediates
 3. **Assembly Phase:** the community assembly votes on the dispute
 
