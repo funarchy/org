@@ -8,11 +8,12 @@ The governance and product documentation for **Funarchy**, a workers' cooperativ
 
 ## Document architecture
 
-Three tiers of documents with different rules:
+Four tiers of documents with different rules:
 
 1. **Numbered governance docs (`01`–`07`)** — charter, roadmap, amendment process, treasury wallet, onboarding, carved-domains examples, bylaws. Numbers are reading/dependency order; the bylaws are deliberately last — they have no legal force until the cooperativa is registered (an event, not a date). The charter (`01-charter.md`) and `products/` are reviewed line by line and the author stands behind every sentence; `02`–`07` are drafts still in progress. `06-carved-domains.md` is illustrative and explicitly non-binding: fictional worked examples, not plans — if it ever disagrees with charter/bylaws/roadmap, those govern.
 2. **`products/` (`01`–`07` + README)** — seven products forming a stack (each layer proves the one below). Numbers are reading order; each page assumes the reader has read all lower-numbered pages, and every dependency has a smaller number — preserve that invariant when editing.
 3. **Living records (unnumbered)** — `tooling.md`, `treasury-reports/`, and files created at trigger events: `amendment-log.md` (first amendment), `decisions.md` (launch), `treasury-address.md` (wallet setup). These are appended to, not read in sequence. Don't create the trigger-event files preemptively.
+4. **`research/` (research notes)** — non-binding groundwork for solutions (prior art, comparisons, evidence), recognized in `03-amendment-process.md` Step 2. Solutions may cite them; they never override governing docs — if one disagrees, the governing document governs.
 
 **Precedence:** if documents disagree, the charter governs. The five core principles in the charter (Openness, Non-Exploitation, Sovereignty, Permissionlessness, Co-Benefit) cannot be amended — a Funarchy with different values forks instead.
 

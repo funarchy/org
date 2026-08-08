@@ -134,6 +134,14 @@ public record (currently: a pull request), with:
 Competing solutions to the same pollution are welcome; the decision step
 picks one (or none).
 
+**Research notes** ([research/](research/)) are optional groundwork
+for solutions: prior art, comparisons, evidence — gathered before or
+while a solution is drafted, kept in the public record so competing
+solutions argue from the same material. They are part of the process
+but bind nothing on their own: a solution may cite them, but only the
+merged diff governs. If a research note disagrees with a governing
+document, the governing document governs.
+
 ## Step 3: Discuss
 
 - Where: on the solution, in the public forum.

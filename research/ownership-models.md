@@ -1,9 +1,11 @@
 # Ownership models — prior art
 
 Reference notes on organizations that structurally protect a mission
-from ownership pressure. This is research material, not governance:
-nothing here binds Funarchy. If anything in this file disagrees with
-the charter, the charter governs.
+from ownership pressure. This is a **research note** — part of the
+governance process as groundwork: solutions may cite it as evidence
+(see [03-amendment-process.md](../03-amendment-process.md), Step 2),
+but it binds nothing on its own. If anything in this file disagrees
+with the charter, the charter governs.
 
 The question each entry is examined against: **who holds the residual
 claim, and who holds control?** A mission clause is only as strong as
