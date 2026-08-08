@@ -79,6 +79,9 @@ user to run `gh auth login` and stop.
 ## Don'ts
 
 - Don't include AI-attribution lines in titles, bodies, or commits.
+- Don't hard-wrap prose in PR/issue bodies — the forum renders every
+  newline as a line break; one line per paragraph or bullet. The
+  ~72-char wrapping convention is for repository files only.
 - Don't gate on a pollution reference — nudge once, then respect
   the answer.
 - Don't mark the PR ready for review — discussion time is the
