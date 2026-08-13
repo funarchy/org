@@ -20,13 +20,15 @@ One more honest fact: until a legal entity exists to hold the treasury, the fund
 
 ## Setup (Founder-Led Phase)
 
-1. Choose network: Ethereum mainnet or Polygon (Polygon recommended - cheaper gas)
+1. Choose network. The deciding constraint is not gas price but which networks the cash-out rail accepts for deposits - a treasury on a chain the off-ramp won't take needs an extra hop every month. Polygon PoS is chosen because it is cheap, EVM-compatible (same wallets, Safe support), and accepted by the card route below.
 2. Create the wallet (hardware wallet strongly recommended for the signing key)
 3. Record the address here and in a public `treasury-address.md`
 4. Test: send in and out a small amount (~$10 USDC), verify on the block explorer
 
+Hold funds as **native USDC** (issued on Polygon by Circle), not the older bridged USDC.e - they are separate tokens with separate contract addresses, and services expecting one will not credit the other. Keep a few dollars of POL for gas; a stablecoin transfer costs well under a cent.
+
 **Treasury Address:** `[recorded at creation]`  
-**Network:** `[Ethereum | Polygon]`
+**Network:** `Polygon PoS`
 
 ## Multi-Sig Upgrade (When the Partner Joins)
 
@@ -51,10 +53,20 @@ One more honest fact: until a legal entity exists to hold the treasury, the fund
 2. Required signers approve in the Safe UI
 3. Transaction executes; link recorded for the monthly report
 
-**Cash-out (Serbia):**
-- Exchange route (Kraken/Coinbase → fiat → bank): ~2% + legal clarity
+**Spending (paying for hosting, agents, domains and similar):**
+
+Most vendors Funarchy depends on do not accept stablecoins, so the treasury reaches them through a crypto debit card (currently Kolo, which accepts USDC deposits on Polygon PoS). The treasury tops the card up monthly with roughly one month of runway; the balance stays in the treasury wallet, not on the card. A card balance is the card provider's liability, not Funarchy's asset - keeping runway there and no more limits what a frozen account can cost.
+
+Until a legal entity exists, the card is held personally by the Founder, for the same reason the treasury itself is legally personal property. This creates a real transparency gap: the top-up is public on-chain, but every purchase after it is invisible and mixed with personal spending. Two rules close it as far as it can be closed:
+
+- Use a card dedicated to Funarchy spending, never one also used personally.
+- Itemize every card purchase in the monthly report - vendor, date, amount, purpose - so the off-chain leg is at least stated, even though it cannot be independently verified. Reports say which figures are on-chain-verifiable and which rest on the Founder's word.
+
+**Cash-out to fiat (Serbia):**
+- Exchange route (licensed exchange → fiat → bank): ~2% + legal clarity
 - Local legal conversion: ~4%
 - All conversion costs are personal, not treasury expenses
+- Banks supervised by the National Bank of Serbia cannot hold digital assets, so a licensed exchange is always the bridge; a business account on either rail requires a registered entity, which is a later step on the legal-form ladder in [02-roadmap.md](02-roadmap.md)
 
 ---
 
