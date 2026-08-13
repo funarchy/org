@@ -24,6 +24,36 @@ Governance moves from Founder-Led to Federated to Assembly on a stated
 timeline with stated triggers, and the documents below are written so
 that the organization outgrows its founder by design, not by accident.
 
+## What is changing right now (August 2026)
+
+Two solutions are open against this document set. Until their
+discussion windows close, the text on this branch keeps saying what
+it said before - an open solution disagreeing with this branch is
+the amendment process working, not an inconsistency.
+
+- **Foundation instead of cooperative.** I am moving Funarchy from a
+  workers' cooperative to a **non-profit foundation** - a legal
+  person with no members and no owners, which cannot be sold, and
+  out of which nobody can be paid a share of surplus. The trigger is
+  [pollution #10](https://github.com/funarchy/org/issues/10): the
+  charter already promises that surplus is never distributed, and a
+  cooperative is a legal form that cannot enforce that promise. The
+  exact new text is
+  [solution #11](https://github.com/funarchy/org/pull/11). I
+  authored it and intend to approve it when its window closes -
+  which is exactly why the window matters: if you see a problem
+  with it, now is the time to say so.
+- **A discussion window that closes on agreement or silence.**
+  [Solution #13](https://github.com/funarchy/org/pull/13) replaces
+  the fixed multi-week window - whose stated durations contradicted
+  each other,
+  [pollution #12](https://github.com/funarchy/org/issues/12) - with
+  one that closes when everyone who decides has agreed, or when
+  discussion has gone quiet. It is deliberately decided under the
+  old rule, not the one it proposes: earliest 2026-08-20 on the
+  shorter reading of the current texts, 2026-08-27 on the longer.
+  #11 is decided after it, under whichever rule is then in force.
+
 ## How these documents were made
 
 Honestly: together with an agent, the way the products argue software
@@ -38,12 +68,17 @@ workflow Funarchy exists to build.
 ## The open seat
 
 I am looking for a **partner** - not an employee, not an investor, an
-equal. **2-of-2 from the very beginning:** strategic decisions require
-both of us, the treasury requires both keys, and if we disagree, the
-change simply does not happen. Capital is not the ask; shared authority
-and the operational half of the organization are. The partnership terms
-are deliberately not pre-designed - co-writing them is the first joint
-act (the full transition clause is in the [charter](01-charter.md)).
+equal. **2-of-2 from the day the partnership begins:** strategic
+decisions require both of us, the treasury requires both keys (the
+multi-sig upgrade is the same event), and if we disagree, the change
+simply does not happen. Until that day the phase runs solo - I decide
+alone and the treasury is single-signer with every transaction
+published - and the seat fills by recognition of operations work
+already being done alongside me, not by recruitment. Capital is not
+the ask; shared authority and the operational half of the organization
+are. The partnership terms are deliberately not pre-designed -
+co-writing them is the first joint act (the full transition clause is
+in the [charter](01-charter.md)).
 
 ## Read this
 
