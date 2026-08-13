@@ -30,7 +30,7 @@ estimates.
 
 ### Goals
 
-- Establish legal footing as an event-driven ladder (see below); cooperativa registration happens when cooperators exist to register it - it is not a launch gate
+- Establish legal footing as an event-driven ladder (see below); the foundation is registered when the Founder is ready to accept the constraint, not when a headcount is reached - it is not a launch gate either way
 - Publish bylaws, charter, and governance roadmap
 - Begin releasing the core products as stable open-source projects (per-product targets: [products/](products/README.md))
 - Recruit first 1–2 cooperators
@@ -41,23 +41,39 @@ estimates.
 
 Like the treasury (single-signer → multi-sig) and the Partner seat
 (open → filled by recognition), the legal form upgrades on events,
-not dates. The entity names a reality that already exists; it never
-precedes it.
+not dates. Mostly the entity names a reality that already exists and
+never precedes it - the exception is the foundation, and the note
+below the table says why it earns one.
 
 | Stage | Legal form | Covers | Trigger |
 |-------|-----------|--------|---------|
 | Now | None - the Founder personally | Code, governance, community | already here |
 | First revenue | The Founder's preduzetnik | Invoicing (SaaS, consulting), basic liability | first paying customer |
-| Cooperators exist | Cooperativa (zadruga) | Shared legal ownership, the treasury held by the entity | enough cooperators to register (legal minimum: verify with counsel) |
+| Mission lock | Foundation (fondacija) | No owners, non-distribution, the treasury held by the entity | the Founder's decision - no headcount gate |
+| Commercial scale | + a trading company, wholly owned by the foundation | Trading beyond what counts as ancillary activity | revenue outgrows the foundation's ancillary-activity limit |
 
 Honest notes:
 - Until an entity holds the treasury, donated funds are legally the
   Founder's personal income. The monthly reports make this visible
   rather than hiding it; a fiscal host is the interim option if
   donations grow beyond small amounts.
-- Registering a cooperative without cooperators would be the entity
-  preceding the reality - the same mistake as recruiting a Partner
-  instead of recognizing one.
+- **The third rung's logic is the reverse of every other rung, and
+  that is deliberate.** Elsewhere the entity names a reality that
+  already exists and never precedes it. A foundation is not a claim
+  about how many people are here - it has no members to count. It is
+  a constraint the Founder accepts, and the honest time to accept a
+  constraint is before there is anything worth extracting. This
+  roadmap previously argued that registering without cooperators
+  would be the entity preceding the reality; that argument was sound
+  for a cooperative, which needs members to mean anything, and it
+  does not transfer.
+- The fourth rung exists because a foundation may conduct commercial
+  activity only as an ancillary one. If hosting and consulting grow
+  into Funarchy's main income, the trading moves into a company the
+  foundation wholly owns - the foundation keeps the mission, the
+  governance, and the non-distribution constraint. Where that line
+  falls is a question for counsel, not a number this document can
+  set.
 
 ### Decision-Making Structure
 
@@ -76,7 +92,7 @@ Honest notes:
 - [ ] Create the governance document structure (this repository)
 
 **September 2026 (Launch)**
-- [ ] Legal footing: verify the Founder's preduzetnik is active and usable for invoicing; evaluate a fiscal host for donations (see the legal-form ladder above)
+- [ ] Legal footing: verify the Founder's preduzetnik is active and usable for invoicing; decide when to register the foundation, which no longer waits on cooperators; a fiscal host remains the interim option for donations until it exists (see the legal-form ladder above)
 - [ ] Publish bylaws, charter, roadmap in the public record (currently GitHub - see [tooling.md](tooling.md))
 - [ ] Release Space and RPPS as stable projects (documentation, guides); scenepad extraction continues
 - [ ] Publish blog post series (three posts: vision, finance, governance)
@@ -119,7 +135,7 @@ Honest notes:
 is carved via the amendment process.** That event is the switch: the
 first carve is delegation inside the Founder-Led Phase; the second
 makes consensus among stewards real. Signs the organization is ready:
-- Cooperativa registered and stable - the ladder's last rung, reached because cooperators existed to register it
+- Foundation registered and stable - the treasury held by the entity rather than as the Founder's personal property
 - At least 1–2 cooperators recruited and productive
 - Revenue streams beginning to flow (even small amounts)
 - Community interest and contributions growing (10+ active community members)
@@ -268,7 +284,7 @@ makes consensus among stewards real. Signs the organization is ready:
 
 **Founder-Led Phase → Federated Phase trigger: the second domain is
 carved (via the amendment process).** Readiness signs:
-- Cooperativa registered (✓ legal)
+- Foundation registered (✓ legal)
 - 1–2 cooperators recruited (✓ team)
 - Revenue starting (✓ financial)
 - Community engaged (✓ social)

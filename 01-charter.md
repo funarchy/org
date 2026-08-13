@@ -7,7 +7,7 @@
 
 ## Preamble
 
-Funarchy is a cooperative of people building open-source solutions for productive workflows, education, and anarchist digital governance. We believe technology can encode our values - transparency, mutual aid, and freedom from exploitation - instead of encoding the values of platforms and corporations.
+Funarchy is a group of people building open-source solutions for productive workflows, education, and anarchist digital governance, organizing as a non-profit foundation: an entity with no members and no owners, which cannot be sold, and out of which no one can be paid a share of surplus. It is not registered yet - the legal-form ladder in [02-roadmap.md](02-roadmap.md) says exactly what exists today. We believe technology can encode our values - transparency, mutual aid, and freedom from exploitation - instead of encoding the values of platforms and corporations.
 
 This charter is our promise to each other: who we are, what we stand for, and how we decide together.
 
@@ -33,23 +33,24 @@ This charter is our promise to each other: who we are, what we stand for, and ho
 **Commitment:** No member becomes wealthy from the labor of others. Benefits are shared equitably.
 
 **What this means:**
-- Members receive fair compensation for their labor (comparable to or above market rates)
+- Cooperators receive fair compensation for their labor (comparable to or above market rates)
 - Surplus is never accumulated or paid out as dividends; it's reinvested in the mission
+- **Funarchy has no owners.** No members, no shares, no residual claim - the Founder included. Value leaves Funarchy only as pay for work, never as a share of what the work produced
 - Decision-making power is not tied to wealth or investment size
 - The Founder's role does not confer permanent authority; power is progressively delegated
-- No member can claim ownership of the cooperative's work
+- No one can claim ownership of Funarchy's work, because there is no ownership to claim
 
-**Why:** Exploitation corrupts movements. Equitable compensation and shared ownership align individual and collective interests.
+**Why:** Exploitation corrupts movements. Equitable compensation aligns individual and collective interests; having nothing to own removes the reason to extract, and having no owner removes the possibility of being sold.
 
 ### 3. Sovereignty
 
 **Commitment:** No single funder, person, or entity controls Funarchy's direction. Governance is community-based.
 
 **What this means:**
-- No supporter's contribution buys strategic control - advisers and funders advise, members decide
-- Major decisions are made by members/cooperators, not investors
+- No supporter's contribution buys strategic control - advisers and funders advise, cooperators decide
+- Major decisions are made by cooperators, not investors
 - Funding is deliberately diversified (donations, grants, SaaS, consulting) to prevent dependency
-- New members have voting rights equal to founders
+- New cooperators have a say equal to the founders': influence follows the work, and can never be bought, because there is no stake to buy
 - If Funarchy ever becomes large, decision-making is decentralized to regional or domain-based teams
 
 **Why:** Sovereignty ensures our values are our own, not borrowed from funders or boards of trustees.
@@ -95,7 +96,7 @@ power over "what hurts" belongs to everyone from day one, in every phase.
 Not everything is a pollution. **Changing a rule** (charter, bylaws,
 roadmap, a standing process) goes through a pollution and lands as a
 solution - full pipeline in [03-amendment-process.md](03-amendment-process.md).
-**Applying a rule** to a case (admitting a member, approving a budget,
+**Applying a rule** to a case (admitting a cooperator, approving a budget,
 executing a treasury transaction) is a decision under the phase rules
 below, recorded in `decisions.md`.
 
@@ -119,7 +120,7 @@ goodwill.
 3. The Founder decides, recording rationale in `decisions.md`
 4. If community strongly disagrees, escalate to mediation by the Founding Adviser (and the Partner, once joined)
 
-**Scope:** Strategic direction, new projects, budget allocation, member admission.
+**Scope:** Strategic direction, new projects, budget allocation, cooperator admission.
 
 **This phase begins solo.** The Partner seat is open and is filled by
 recognition, not recruitment - like every role in Funarchy, it names
@@ -159,7 +160,7 @@ not pre-designed; its occupant designs it.**
 3. Cross-domain decisions: stewards reach consensus (the Founder breaks ties if needed)
 4. Strategic decisions: same as the Founder-Led Phase, but stewards decide instead of the Founder alone
 
-**Scope:** Each carved domain is semi-autonomous; decisions affecting multiple domains or the whole cooperative need consensus.
+**Scope:** Each carved domain is semi-autonomous; decisions affecting multiple domains or the whole of Funarchy need consensus.
 
 **This phase decentralizes because:**
 - Organization is larger; founder-led bottlenecks emerge
@@ -168,7 +169,7 @@ not pre-designed; its occupant designs it.**
 
 ### Assembly Phase (18+ months)
 
-**Who decides?** Community assembly (all members + invited contributors).
+**Who decides?** Community assembly (all cooperators + invited contributors).
 
 **How:**
 1. Pollution → solution → discussion (2 weeks, async) - the same pipeline, now with an assembly at the decision step
@@ -176,7 +177,7 @@ not pre-designed; its occupant designs it.**
 3. Voting mechanism: Quadratic voting, delegated voting, or consensus (to be designed in the Federated Phase)
 4. Major decisions require 70%+ support
 
-**Scope:** Strategic direction, charter amendments, budget, new projects, member admission.
+**Scope:** Strategic direction, charter amendments, budget, new projects, cooperator admission.
 
 **This phase achieves the anarchist goal because:**
 - Power is genuinely distributed
@@ -205,7 +206,7 @@ not pre-designed; its occupant designs it.**
 
 - We start from problems, not prescriptions - pollutions name what hurts; solutions compete to answer them
 - We prefer consensus over voting, but vote if consensus stalls
-- We document our decisions (why we chose X over Y) so future members can understand our thinking
+- We document our decisions (why we chose X over Y) so future cooperators can understand our thinking
 - We regularly revisit decisions; nothing is final
 - We are willing to fail and learn together
 
@@ -245,12 +246,17 @@ Full pipeline: [03-amendment-process.md](03-amendment-process.md).
 ## How This Document Relates to Bylaws
 
 - **Charter** = our values and promises to each other (this document)
-- **Bylaws** = the legal rules filed with the Serbian government (`07-bylaws.md`)
+- **Bylaws** = the legal rules filed with the Serbian government - the foundation's statute (`07-bylaws.md`)
 - Both must align; if they diverge, the charter guides updates to the bylaws
+
+The non-distribution constraint above is the one promise the bylaws must
+carry verbatim rather than merely honor. Everything else in this charter
+holds because we mean it; that one holds because an entity is built so
+that breaking it would take a change of legal form, not a change of mind.
 
 ---
 
-## Signatures of Founding Members
+## Signatures of Founders
 
 **jkbo** - Founder & Primary Coordinator (Founder-Led Phase)  
 **Date:** [September 2026]
