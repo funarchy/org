@@ -150,7 +150,7 @@ makes consensus among stewards real. Signs the organization is ready:
 - Domain-internal: Domain steward decides (with team input)
 - Cross-domain: Stewards + the Founder reach consensus
 - Strategic (budget, major projects, member admission): Consensus among all stewards + the Founder
-- Charter amendments: 2-week discussion, stewards + the Founder approve
+- Charter amendments: the discussion window of [03-amendment-process.md](03-amendment-process.md) Step 3, stewards + the Founder approve
 
 **Multi-Sig Wallet:**
 - Add stewards of carved domains as signers, as domains are carved (federated control)

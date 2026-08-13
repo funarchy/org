@@ -73,7 +73,7 @@ Article 8 (estimated ~6 months)
 - The Founder makes strategic decisions
 - The Founding Adviser provides input (and the Partner, once joined - the phase begins solo, with the Partner seat open)
 - Anyone may report pollutions and propose solutions in the public forum (Article 10); the Founder retains the final decision
-- Process: pollution → public priority (assigned by the Founder) → solution → 1-week discussion → decision → recorded in the decision log
+- Process: pollution → public priority (assigned by the Founder) → solution → discussion window (Article 10) → decision → recorded in the decision log
 
 **Partnership transition:** upon the Partner joining, decision-making in
 this phase becomes joint. Wherever these bylaws assign a decision to "the
@@ -122,7 +122,7 @@ article (estimated 2027)
 **Decision-Making:**
 - Domain-internal: Steward decides (with team input)
 - Cross-domain: Consensus among stewards + Founder
-- Charter amendments: 2-week discussion, stewards + Founder approve
+- Charter amendments: the discussion window of Article 10, stewards + Founder approve
 
 **Governance Evolution:**
 - Treasury multi-sig adds stewards of carved domains as signers, as
@@ -171,7 +171,9 @@ Funarchy amends its governing rules through a problem-first process:
    publicly challenged
 3. **Propose:** a solution with the exact new text is proposed against the
    public record
-4. **Discuss:** 2-week discussion window (longer for major changes)
+4. **Discuss:** for how long the discussion window runs, and what restarts it, see
+   [03-amendment-process.md](03-amendment-process.md) Step 3. The durations are
+   stated in one place on purpose; this article does not repeat them
 5. **Decide:** Founder-Led Phase: the Founder | Federated Phase:
    steward consensus | Assembly Phase: assembly vote
 6. **File:** approved amendments filed with the Serbian registry
@@ -191,6 +193,14 @@ phase rules of Articles 7–9 and are recorded in the decision log.
 > governance models" in the Article 1 purpose clause - the filed version
 > may prefer a descriptive gloss (e.g., "horizontal self-governance
 > models").
+>
+> A third question, from the Discuss step above: this article points to
+> `03-amendment-process.md` for the discussion window rather than stating
+> the durations, so that they exist in exactly one place. The referenced
+> document is not itself filed, which may not satisfy a registrar. If the
+> filed statute has to write the durations out, then the filed text and
+> Step 3 must be amended together from then on - the drift this points
+> away from would be back, and worth handling deliberately.
 
 ---
 

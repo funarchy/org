@@ -137,10 +137,41 @@ picks one (or none).
 ## Step 3: Discuss
 
 - Where: on the solution, in the public forum.
-- How long: 2 weeks minimum (longer for major changes; the proposer may
-  extend).
 - Who: anyone. No voting yet - clarify, surface consequences, suggest
   amendments to the amendment, or file a competing solution.
+
+### The discussion window
+
+A solution may be decided once **both** of these are true:
+
+- **72 hours** have passed since it was opened, and
+- **7 days** have passed since the last substantive comment on it.
+
+A **substantive comment** raises a problem, proposes different text, or
+asks a question that has not been answered. Approvals,
+acknowledgements, and editorial nits are not substantive and do not
+move the clock.
+
+**Changing the proposed text reopens the window.** A substantive change
+to the diff restarts both clocks, because review of the old text is not
+review of the new text. Editorial fixes do not restart anything.
+
+The proposer may extend the window at any time, for any reason. Nobody
+may shorten it - including the decider.
+
+**This is the only place these durations are stated.** The charter and
+the bylaws point here instead of repeating a number, so the rule cannot
+drift apart from itself.
+
+Why it is built this way: a window exists so that people who would
+object get time to object. Elapsed days buy nothing when nobody is
+there, so a flat two weeks left the founding period choosing between
+waiting on an empty room and visibly breaking its own rule. Here
+silence closes the window quickly, one real objection holds it open for
+a week past the last thing anyone said, and a live argument holds it
+open as long as the argument lasts. One rule covers one participant and
+fifty, and it tightens by itself as people arrive - no phase exception,
+nothing to rewrite later.
 
 ## Step 4: Decide (phase-dependent)
 
@@ -155,7 +186,15 @@ The handshake, per the current governance phase:
 - **Assembly Phase:** the assembly votes per the voting mechanism.
 
 The verdict - approved or rejected, by whom, and why - is recorded on the
-solution itself.
+solution itself, and states when the discussion window opened, when it
+closed, and that it was met.
+
+This applies to the decider's own solutions on exactly the same terms.
+The point is not ceremony: "opened and decided the same day" must never
+be ambiguous between *weighed* and *ignored*, because once a reader
+cannot tell the difference, every window in the record is worth less -
+including the ones that will matter when someone is objecting to
+something real.
 
 ## Step 5: Land the change (if approved)
 

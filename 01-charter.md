@@ -115,7 +115,7 @@ goodwill.
 
 **How:**
 1. Anyone (including the Founder) reports a pollution or proposes a solution in the public forum
-2. Community discusses for 1 week
+2. The community discusses - window per [03-amendment-process.md](03-amendment-process.md) Step 3
 3. The Founder decides, recording rationale in `decisions.md`
 4. If community strongly disagrees, escalate to mediation by the Founding Adviser (and the Partner, once joined)
 
@@ -171,7 +171,7 @@ not pre-designed; its occupant designs it.**
 **Who decides?** Community assembly (all members + invited contributors).
 
 **How:**
-1. Pollution → solution → discussion (2 weeks, async) - the same pipeline, now with an assembly at the decision step
+1. Pollution → solution → discussion (the same window, async) - the same pipeline, now with an assembly at the decision step
 2. Assembly vote (monthly or quarterly)
 3. Voting mechanism: Quadratic voting, delegated voting, or consensus (to be designed in the Federated Phase)
 4. Major decisions require 70%+ support
@@ -232,7 +232,7 @@ This charter is alive. It changes as we learn and grow.
 **To propose an amendment:**
 1. Report the pollution - what hurts, who it affects, cost of not fixing, acceptance criteria
 2. Propose the solution - the exact new text, answering the pollution
-3. Discussion window: 2 weeks (or longer for major changes)
+3. Discussion window: per [03-amendment-process.md](03-amendment-process.md) Step 3 - it closes on silence, not on a fixed date, and the durations live there so they cannot drift
 4. Decision: the Founder (Founder-Led Phase), steward consensus (Federated Phase), or assembly vote (Assembly Phase)
 5. If approved, the solution lands in this document and is recorded in `amendment-log.md`
 
