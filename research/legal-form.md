@@ -2,16 +2,14 @@
 
 Reference notes on the legal forms available to Funarchy in Serbia,
 examined against one requirement: **no one can ever extract value
-from Funarchy except as pay for work.** This is a **research note** —
-part of the governance process as groundwork: solutions may cite it
-as evidence (see [03-amendment-process.md](../03-amendment-process.md),
-Step 2), but it binds nothing on its own. If anything here disagrees
-with the charter, the charter governs.
+from Funarchy except as pay for work.** This is groundwork, not
+governance — a solution may cite it as evidence, but it binds nothing
+on its own. If anything here disagrees with the charter, the charter
+governs.
 
-Companion note: [ownership-models.md](ownership-models.md) examines
-who holds the residual claim at Proton and others. This note asks the
-narrower question of which Serbian legal instrument delivers that
-answer.
+The question here is narrower than "who holds the residual claim?" —
+it is which Serbian legal instrument actually delivers the answer
+"nobody," and what that costs.
 
 **Nothing here is legal or tax advice.** Every figure is dated and
 sourced; rates change annually and the qualitative tests below are
