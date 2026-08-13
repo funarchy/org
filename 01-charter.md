@@ -232,7 +232,7 @@ This charter is alive. It changes as we learn and grow.
 **To propose an amendment:**
 1. Report the pollution - what hurts, who it affects, cost of not fixing, acceptance criteria
 2. Propose the solution - the exact new text, answering the pollution
-3. Discussion window: per [03-amendment-process.md](03-amendment-process.md) Step 3 - a short floor, then closing on agreement or on silence rather than on a fixed date; every duration lives there so none can drift
+3. Discussion window: per [03-amendment-process.md](03-amendment-process.md) Step 3; the durations live only there
 4. Decision: the Founder (Founder-Led Phase), steward consensus (Federated Phase), or assembly vote (Assembly Phase)
 5. If approved, the solution lands in this document and is recorded in `amendment-log.md`
 

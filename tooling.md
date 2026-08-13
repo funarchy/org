@@ -10,6 +10,7 @@ a tool means changing one line here and recording the change in
 | **The public record** | This git repository (canonical remote: github.com/funarchy; mirrors: to be added) |
 | **The public forum** | GitHub Issues on the canonical remote |
 | **The treasury** | See [04-treasury-wallet.md](04-treasury-wallet.md) and `treasury-address.md` |
+| **Recorded agreement** (on a solution) | A 👍 reaction, an "Agreed" comment, or a PR approval on the solution's pull request |
 
 ## Why this indirection
 

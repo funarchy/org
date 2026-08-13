@@ -49,9 +49,10 @@ its releases, its roadmap), its steward (Mira), and how the steward
 is replaced (chosen by the domain's active contributors, confirmed
 at the decision step of the current phase).
 
-**The decision.** Two-week discussion window, then the Founders
-approve with written rationale. The amendment lands in the public
-record and is recorded in `amendment-log.md`.
+**The decision.** The discussion window runs and closes per
+[03-amendment-process.md](03-amendment-process.md) Step 3, then the
+Founders approve with written rationale. The amendment lands in the
+public record and is recorded in `amendment-log.md`.
 
 **The map after.**
 

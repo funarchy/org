@@ -142,51 +142,71 @@ picks one (or none).
 
 ### The discussion window
 
-A solution may be decided once **24 hours** have passed since it was
-opened, and then as soon as **either** of these is true:
+A solution may be decided once all three of these hold, tested at
+the moment of deciding:
 
-- **everyone eligible to decide, other than the proposer, has agreed** -
-  by reaction, an "Agreed" comment, or an approval on the solution; or
-- **72 hours** have passed since the last substantive comment on it.
+1. every substantive comment bearing on the clock is at least
+   **72 hours** old, and
+2. **24 hours** have passed since the current text was proposed, and
+3. either everyone who will make this decision (Step 4), apart from
+   the proposer, has recorded agreement with the current text, or
+   **72 hours** have passed since the current text was proposed.
 
-The 24 hours are a floor with no exception. A window shorter than a day
-excludes whoever is asleep, by construction - it would make Funarchy
-choose whose timezone counts.
+"Since the current text was proposed" means since the solution was
+opened, or since its text last changed, whichever is later. A change
+to the text is a new proposal: the clocks of conditions 2 and 3
+restart, and agreement with the old text does not count as agreement
+with the new - people agree to text, and after a change it is
+different text. Comment ages in condition 1 are untouched by
+changes: a comment's clock belongs to its author, so an edit cannot
+launder away a fresh objection.
 
-**Unanimity means everyone who could decide, not everyone who spoke.**
-In the Founder-Led Phase that is the Founder alone, so with nobody else
-to ask, the floor is the whole window: open it, sleep on it, decide
-tomorrow. Once the Partner joins it includes the Partner; in the
-Federated Phase, every steward; in the Assembly Phase, the assembly.
-The path gets harder to walk as Funarchy grows, which is right - and
-when unanimity is out of reach, the silence rule carries the window
-instead. No clause stops working, so nothing has to be rewritten.
+The 24 hours are a floor with no exception. A window shorter than a
+day excludes whoever is asleep, by construction - it would make
+Funarchy choose whose timezone counts.
 
-A **substantive comment** raises a problem, proposes different text, or
-asks a question that has not been answered. Approvals, acknowledgements
-and editorial nits do not move the clock.
+Agreement is recorded on the solution in the public forum; the
+concrete forms are bound in [tooling.md](tooling.md). When nobody
+but the proposer is eligible to decide, condition 3 is satisfied by
+its first branch at the floor: open it, sleep on it, decide
+tomorrow.
 
-**Any change to the proposed text restarts the window and voids every
-agreement already given.** Any change - not merely a substantive one,
-because a proposer grading the significance of their own edit grades it
-in their own favour. People agree to text, and after a push it is
-different text. The 24-hour floor is what makes this affordable: a
-restart costs a day, which is cheap enough to keep the strict version.
+**Whose comments bear on the clock: cooperators' and the
+deciders'.** Anyone may comment - outside comments are input the
+deciders weigh, and the verdict's rationale must answer the ones it
+sets aside - but only recognized voices hold the window. A
+cooperator may **second** an outside comment, taking responsibility
+for it; it then bears on the clock as their own. Sustained,
+valuable outside contribution is how cooperators are recognized -
+an admission decision under the phase rules, recorded in the
+decision log; recognition confers standing, never pay and never a
+claim.
 
-The proposer may extend the window at any time, for any reason. Nobody
-may shorten it - including the decider.
+A **substantive comment** raises a problem not already answered,
+proposes different text, or asks a question that has not been
+answered. Approvals, acknowledgements, editorial nits, and
+repetition of answered points do not move the clock. The
+commenter's labelling stands unless the decider records why it
+does not.
 
-**This is the only place these durations are stated.** The charter, the
-roadmap and the bylaws point here instead of repeating a number, so the
-rule cannot drift apart from itself.
+The proposer may extend the window at any time, for any reason.
+Nobody may shorten it - including the decider.
 
-Why it is built this way: a window exists so that people who would
-object get time to object. Elapsed days buy nothing when nobody is
-there, so a flat fortnight left the founding period choosing between
-waiting on an empty room and visibly breaking its own rule. This closes
-as soon as everyone who could object has, or once the argument has been
-quiet for three days, and it holds open as long as an argument lasts.
-One rule covers one participant and fifty.
+**This is the only place these durations are stated.** The charter,
+the roadmap and the bylaws point here instead of repeating a
+number, so the rule cannot drift apart from itself.
+
+Why it is built this way: a window exists so that those with
+standing to object get time to object - and, stated honestly, that
+is narrower than "anyone": outsiders are heard through answers and
+seconding, not through the clock, so an open forum cannot stall
+decisions it holds no responsibility for. Elapsed days buy nothing
+when nobody is there, so a flat fortnight left the founding period
+choosing between waiting on an empty room and visibly breaking its
+own rule. This closes as soon as everyone who could decide has
+agreed, or once discussion has gone quiet; it holds open while
+recognized argument continues. One rule covers one participant and
+fifty.
 
 ## Step 4: Decide (phase-dependent)
 
@@ -205,11 +225,11 @@ solution itself, and states when the discussion window opened, when it
 closed, and that it was met.
 
 This applies to the decider's own solutions on exactly the same terms.
-The point is not ceremony: "opened and decided the same day" must never
-be ambiguous between *weighed* and *ignored*, because once a reader
-cannot tell the difference, every window in the record is worth less -
-including the ones that will matter when someone is objecting to
-something real.
+The point is not ceremony: "opened one day, decided the next" must
+never be ambiguous between *weighed* and *ignored*, because once a
+reader cannot tell the difference, every window in the record is worth
+less - including the ones that will matter when someone is objecting
+to something real.
 
 ## Step 5: Land the change (if approved)
 
@@ -222,7 +242,8 @@ something real.
    - Approved: [date]
    - Pollution(s): [links]
    - Solution: [link]
-   - Approved by: [Founder-Led Phase: Founder | Federated Phase: leads | Assembly Phase: vote]
+   - Approved by: [Founder-Led Phase: Founder | Federated Phase: steward consensus | Assembly Phase: vote]
+   - Window: [opened] → [closed]
    - Effective: [usually immediately]
    ```
 
