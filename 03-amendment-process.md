@@ -142,36 +142,51 @@ picks one (or none).
 
 ### The discussion window
 
-A solution may be decided once **both** of these are true:
+A solution may be decided once **24 hours** have passed since it was
+opened, and then as soon as **either** of these is true:
 
-- **72 hours** have passed since it was opened, and
-- **7 days** have passed since the last substantive comment on it.
+- **everyone eligible to decide, other than the proposer, has agreed** -
+  by reaction, an "Agreed" comment, or an approval on the solution; or
+- **72 hours** have passed since the last substantive comment on it.
+
+The 24 hours are a floor with no exception. A window shorter than a day
+excludes whoever is asleep, by construction - it would make Funarchy
+choose whose timezone counts.
+
+**Unanimity means everyone who could decide, not everyone who spoke.**
+In the Founder-Led Phase that is the Founder alone, so with nobody else
+to ask, the floor is the whole window: open it, sleep on it, decide
+tomorrow. Once the Partner joins it includes the Partner; in the
+Federated Phase, every steward; in the Assembly Phase, the assembly.
+The path gets harder to walk as Funarchy grows, which is right - and
+when unanimity is out of reach, the silence rule carries the window
+instead. No clause stops working, so nothing has to be rewritten.
 
 A **substantive comment** raises a problem, proposes different text, or
-asks a question that has not been answered. Approvals,
-acknowledgements, and editorial nits are not substantive and do not
-move the clock.
+asks a question that has not been answered. Approvals, acknowledgements
+and editorial nits do not move the clock.
 
-**Changing the proposed text reopens the window.** A substantive change
-to the diff restarts both clocks, because review of the old text is not
-review of the new text. Editorial fixes do not restart anything.
+**Any change to the proposed text restarts the window and voids every
+agreement already given.** Any change - not merely a substantive one,
+because a proposer grading the significance of their own edit grades it
+in their own favour. People agree to text, and after a push it is
+different text. The 24-hour floor is what makes this affordable: a
+restart costs a day, which is cheap enough to keep the strict version.
 
 The proposer may extend the window at any time, for any reason. Nobody
 may shorten it - including the decider.
 
-**This is the only place these durations are stated.** The charter and
-the bylaws point here instead of repeating a number, so the rule cannot
-drift apart from itself.
+**This is the only place these durations are stated.** The charter, the
+roadmap and the bylaws point here instead of repeating a number, so the
+rule cannot drift apart from itself.
 
 Why it is built this way: a window exists so that people who would
 object get time to object. Elapsed days buy nothing when nobody is
-there, so a flat two weeks left the founding period choosing between
-waiting on an empty room and visibly breaking its own rule. Here
-silence closes the window quickly, one real objection holds it open for
-a week past the last thing anyone said, and a live argument holds it
-open as long as the argument lasts. One rule covers one participant and
-fifty, and it tightens by itself as people arrive - no phase exception,
-nothing to rewrite later.
+there, so a flat fortnight left the founding period choosing between
+waiting on an empty room and visibly breaking its own rule. This closes
+as soon as everyone who could object has, or once the argument has been
+quiet for three days, and it holds open as long as an argument lasts.
+One rule covers one participant and fifty.
 
 ## Step 4: Decide (phase-dependent)
 
