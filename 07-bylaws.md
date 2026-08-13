@@ -2,11 +2,14 @@
 
 **Legal Entity:** Workers' Cooperative (Zadruga)  
 **Jurisdiction:** Serbia  
-**Effective Date:** [To be filed September 2026]
+**Effective Date:** [filed at cooperativa registration - an event, not a date; see the legal-form ladder in [02-roadmap.md](02-roadmap.md)]
 
 > This is the open working draft. People appear as roles (Founder, Founding Adviser,
 > Partner, cooperators); the filed Serbian version substitutes legal identities and
-> is translated with legal counsel.
+> is translated with legal counsel. **These bylaws have no legal force until the
+> cooperativa is registered.** Until then the charter alone governs - as a promise
+> between people, which is what it is either way. This draft exists so that the
+> translation into Serbian law is ready when cooperators exist to file it.
 
 ## I. Founding & Core Purpose
 
@@ -52,7 +55,7 @@ The cooperative is established for an indefinite period.
 - Contribute to cooperative's mission (minimum: governance participation)
 
 ### Article 6: Admitting New Members
-- Founder-Led Phase: the Founder approves new members (with Partner/Adviser input)
+- Founder-Led Phase: the Founder approves new members (with input from the Adviser, and the Partner once joined)
 - Federated Phase: stewards of carved domains + the Founder reach consensus
 - Assembly Phase: the community assembly votes on new members
 - All new members must sign the charter agreement and pledge to uphold the five principles
@@ -68,9 +71,9 @@ Article 8 (estimated ~6 months)
 
 **Decision-Making:**
 - The Founder makes strategic decisions
-- The Partner and Founding Adviser provide input
+- The Founding Adviser provides input (and the Partner, once joined - the phase begins solo, with the Partner seat open)
 - Anyone may report pollutions and propose solutions in the public forum (Article 10); the Founder retains the final decision
-- Process: pollution → public priority (assigned by the Founder) → solution → 1-week discussion → decision → recorded in the decision log
+- Process: pollution → public priority (assigned by the Founder) → solution → discussion window (Article 10) → decision → recorded in the decision log
 
 **Partnership transition:** upon the Partner joining, decision-making in
 this phase becomes joint. Wherever these bylaws assign a decision to "the
@@ -119,7 +122,7 @@ article (estimated 2027)
 **Decision-Making:**
 - Domain-internal: Steward decides (with team input)
 - Cross-domain: Consensus among stewards + Founder
-- Charter amendments: 2-week discussion, stewards + Founder approve
+- Charter amendments: the discussion window of Article 10, stewards + Founder approve
 
 **Governance Evolution:**
 - Treasury multi-sig adds stewards of carved domains as signers, as
@@ -168,7 +171,9 @@ Funarchy amends its governing rules through a problem-first process:
    publicly challenged
 3. **Propose:** a solution with the exact new text is proposed against the
    public record
-4. **Discuss:** 2-week discussion window (longer for major changes)
+4. **Discuss:** for how long the discussion window runs, and what restarts it, see
+   [03-amendment-process.md](03-amendment-process.md) Step 3. The durations are
+   stated in one place on purpose; this article does not repeat them
 5. **Decide:** Founder-Led Phase: the Founder | Federated Phase:
    steward consensus | Assembly Phase: assembly vote
 6. **File:** approved amendments filed with the Serbian registry
@@ -188,6 +193,14 @@ phase rules of Articles 7–9 and are recorded in the decision log.
 > governance models" in the Article 1 purpose clause - the filed version
 > may prefer a descriptive gloss (e.g., "horizontal self-governance
 > models").
+>
+> A third question, from the Discuss step above: this article points to
+> `03-amendment-process.md` for the discussion window rather than stating
+> the durations, so that they exist in exactly one place. The referenced
+> document is not itself filed, which may not satisfy a registrar. If the
+> filed statute has to write the durations out, then the filed text and
+> Step 3 must be amended together from then on - the drift this points
+> away from would be back, and worth handling deliberately.
 
 ---
 
@@ -242,7 +255,7 @@ Published on the 1st of each month in the public record:
 
 ### Article 14: Disagreements & Escalation
 
-1. **Founder-Led Phase:** the Founder consults Partner/Adviser and proposes resolution
+1. **Founder-Led Phase:** the Founder consults the Adviser (and the Partner, once joined) and proposes resolution
 2. **Federated Phase:** Domain stewards seek consensus; if stuck, the Founder mediates
 3. **Assembly Phase:** the community assembly votes on the dispute
 

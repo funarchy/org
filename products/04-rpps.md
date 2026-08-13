@@ -49,7 +49,7 @@ problems left in people's heads.
 Native to [Funarchy Space](03-space.md); implements
 [Pollutions & Solutions](02-pollutions-n-solutions.md); what solutions learn
 flows into the [llm wiki](01-llm-wiki.md). Funarchy's own
-[governance](../04-amendment-process.md) runs on the same
+[governance](../03-amendment-process.md) runs on the same
 pipeline.
 
 ## Status

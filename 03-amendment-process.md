@@ -7,8 +7,8 @@ method self-containedly and applies it to governance.
 Amendments touch three governing documents:
 
 1. **Charter** ([01-charter.md](01-charter.md)) - values, principles, decision-making
-2. **Bylaws** ([02-bylaws.md](02-bylaws.md)) - the legal encoding, filed with the Serbian registry
-3. **Roadmap** ([03-roadmap.md](03-roadmap.md)) - timeline, milestones, success criteria
+2. **Roadmap** ([02-roadmap.md](02-roadmap.md)) - timeline, milestones, success criteria
+3. **Bylaws** ([07-bylaws.md](07-bylaws.md)) - the legal encoding, filed with the Serbian registry when the cooperativa is registered
 
 They are connected: charter changes often require bylaw updates; major
 roadmap shifts need charter approval.
@@ -137,10 +137,76 @@ picks one (or none).
 ## Step 3: Discuss
 
 - Where: on the solution, in the public forum.
-- How long: 2 weeks minimum (longer for major changes; the proposer may
-  extend).
 - Who: anyone. No voting yet - clarify, surface consequences, suggest
   amendments to the amendment, or file a competing solution.
+
+### The discussion window
+
+A solution may be decided once all three of these hold, tested at
+the moment of deciding:
+
+1. every substantive comment bearing on the clock is at least
+   **72 hours** old, and
+2. **24 hours** have passed since the current text was proposed, and
+3. either everyone who will make this decision (Step 4), apart from
+   the proposer, has recorded agreement with the current text, or
+   **72 hours** have passed since the current text was proposed.
+
+"Since the current text was proposed" means since the solution was
+opened, or since its text last changed, whichever is later. A change
+to the text is a new proposal: the clocks of conditions 2 and 3
+restart, and agreement with the old text does not count as agreement
+with the new - people agree to text, and after a change it is
+different text. Comment ages in condition 1 are untouched by
+changes: a comment's clock belongs to its author, so an edit cannot
+launder away a fresh objection.
+
+The 24 hours are a floor with no exception. A window shorter than a
+day excludes whoever is asleep, by construction - it would make
+Funarchy choose whose timezone counts.
+
+Agreement is recorded on the solution in the public forum; the
+concrete forms are bound in [tooling.md](tooling.md). When nobody
+but the proposer is eligible to decide, condition 3 is satisfied by
+its first branch at the floor: open it, sleep on it, decide
+tomorrow.
+
+**Whose comments bear on the clock: cooperators' and the
+deciders'.** Anyone may comment - outside comments are input the
+deciders weigh, and the verdict's rationale must answer the ones it
+sets aside - but only recognized voices hold the window. A
+cooperator may **second** an outside comment, taking responsibility
+for it; it then bears on the clock as their own. Sustained,
+valuable outside contribution is how cooperators are recognized -
+an admission decision under the phase rules, recorded in the
+decision log; recognition confers standing, never pay and never a
+claim.
+
+A **substantive comment** raises a problem not already answered,
+proposes different text, or asks a question that has not been
+answered. Approvals, acknowledgements, editorial nits, and
+repetition of answered points do not move the clock. The
+commenter's labelling stands unless the decider records why it
+does not.
+
+The proposer may extend the window at any time, for any reason.
+Nobody may shorten it - including the decider.
+
+**This is the only place these durations are stated.** The charter,
+the roadmap and the bylaws point here instead of repeating a
+number, so the rule cannot drift apart from itself.
+
+Why it is built this way: a window exists so that those with
+standing to object get time to object - and, stated honestly, that
+is narrower than "anyone": outsiders are heard through answers and
+seconding, not through the clock, so an open forum cannot stall
+decisions it holds no responsibility for. Elapsed days buy nothing
+when nobody is there, so a flat fortnight left the founding period
+choosing between waiting on an empty room and visibly breaking its
+own rule. This closes as soon as everyone who could decide has
+agreed, or once discussion has gone quiet; it holds open while
+recognized argument continues. One rule covers one participant and
+fifty.
 
 ## Step 4: Decide (phase-dependent)
 
@@ -155,7 +221,15 @@ The handshake, per the current governance phase:
 - **Assembly Phase:** the assembly votes per the voting mechanism.
 
 The verdict - approved or rejected, by whom, and why - is recorded on the
-solution itself.
+solution itself, and states when the discussion window opened, when it
+closed, and that it was met.
+
+This applies to the decider's own solutions on exactly the same terms.
+The point is not ceremony: "opened one day, decided the next" must
+never be ambiguous between *weighed* and *ignored*, because once a
+reader cannot tell the difference, every window in the record is worth
+less - including the ones that will matter when someone is objecting
+to something real.
 
 ## Step 5: Land the change (if approved)
 
@@ -168,7 +242,8 @@ solution itself.
    - Approved: [date]
    - Pollution(s): [links]
    - Solution: [link]
-   - Approved by: [Founder-Led Phase: Founder | Federated Phase: leads | Assembly Phase: vote]
+   - Approved by: [Founder-Led Phase: Founder | Federated Phase: steward consensus | Assembly Phase: vote]
+   - Window: [opened] → [closed]
    - Effective: [usually immediately]
    ```
 

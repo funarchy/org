@@ -14,6 +14,8 @@
 
 Single-signer at start is a pragmatic compromise: transparency comes from publishing every transaction monthly with on-chain links, not from signature count. The multi-sig upgrade is deliberately framed as the **first joint act** with the Partner - it makes shared control real on day one of the partnership.
 
+One more honest fact: until a legal entity exists to hold the treasury, the funds are legally the Founder's personal property, whatever the reports call them. The reports state this rather than hide it (see the legal-form ladder in [02-roadmap.md](02-roadmap.md)).
+
 ---
 
 ## Setup (Founder-Led Phase)

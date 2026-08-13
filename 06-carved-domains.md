@@ -7,8 +7,8 @@ not a prediction, and not a list to fill in.
 
 How carving works is defined in the
 [charter](01-charter.md) (Federated Phase) and the
-[roadmap](03-roadmap.md) (Domain Carving); the pipeline every carve
-travels is the [amendment process](04-amendment-process.md). This
+[roadmap](02-roadmap.md) (Domain Carving); the pipeline every carve
+travels is the [amendment process](03-amendment-process.md). This
 document only shows what those rules look like when lived.
 
 Every example follows the same arc, because every carve does: a
@@ -49,9 +49,10 @@ its releases, its roadmap), its steward (Mira), and how the steward
 is replaced (chosen by the domain's active contributors, confirmed
 at the decision step of the current phase).
 
-**The decision.** Two-week discussion window, then the Founders
-approve with written rationale. The amendment lands in the public
-record and is recorded in `amendment-log.md`.
+**The decision.** The discussion window runs and closes per
+[03-amendment-process.md](03-amendment-process.md) Step 3, then the
+Founders approve with written rationale. The amendment lands in the
+public record and is recorded in `amendment-log.md`.
 
 **The map after.**
 

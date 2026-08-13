@@ -32,7 +32,7 @@ And it is not a software methodology. A family deciding its rules, a
 school, a co-op, a city block - we believe the split applies anywhere
 problems and authority live together, and the methodology write-up will
 test that belief beyond software. Funarchy already governs itself with it:
-[the amendment process](../04-amendment-process.md) is
+[the amendment process](../03-amendment-process.md) is
 Pollutions & Solutions applied to the organization's own rules.
 
 ## Why not X
