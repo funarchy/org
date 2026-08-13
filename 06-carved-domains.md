@@ -7,8 +7,8 @@ not a prediction, and not a list to fill in.
 
 How carving works is defined in the
 [charter](01-charter.md) (Federated Phase) and the
-[roadmap](03-roadmap.md) (Domain Carving); the pipeline every carve
-travels is the [amendment process](04-amendment-process.md). This
+[roadmap](02-roadmap.md) (Domain Carving); the pipeline every carve
+travels is the [amendment process](03-amendment-process.md). This
 document only shows what those rules look like when lived.
 
 Every example follows the same arc, because every carve does: a

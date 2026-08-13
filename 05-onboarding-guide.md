@@ -21,9 +21,9 @@ Welcome to Funarchy! This guide walks you through your first month.
 
 Read (in order):
 1. `01-charter.md` - Our values
-2. `03-roadmap.md` - Our 3-phase plan
-3. `02-bylaws.md` - Legal structure
-4. `04-amendment-process.md` - How we change things
+2. `02-roadmap.md` - Our 3-phase plan
+3. `03-amendment-process.md` - How we change things
+4. `07-bylaws.md` - Legal structure (dormant until the cooperativa is registered)
 5. `products/README.md` - The products and the manifesto
 
 **Do this:** Take notes on what's unclear, what excites you, what worries you.
@@ -60,7 +60,7 @@ Read (in order):
 Funarchy's domain map is still coarse - two founding domains:
 technology (the Founder) and operations (the Partner). Finer domains
 get carved from real work later, through the amendment process (see
-[03-roadmap.md](03-roadmap.md)). Until then, anyone works on
+[02-roadmap.md](02-roadmap.md)). Until then, anyone works on
 anything.
 
 Pick a first project with jkbo - something small, real, and shippable

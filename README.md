@@ -68,12 +68,12 @@ care - expect these to change:
 
 | Document | What it is |
 |----------|------------|
-| [Bylaws](02-bylaws.md) | The legal encoding of the charter, drafted for filing as a Serbian zadruga (workers' cooperative). |
-| [Roadmap](03-roadmap.md) | How governance evolves: founder-led → federated domains → community assembly, with dates and success criteria. |
-| [Amendment Process](04-amendment-process.md) | How anyone proposes a change to the charter, bylaws, or roadmap - and how it gets decided and filed. |
-| [Treasury Wallet](05-treasury-wallet.md) | How the money is held and who can move it, from single-signer through federated multi-sig. |
-| [Onboarding Guide](06-onboarding-guide.md) | A new cooperator's first month. |
-| [Carved Domains](07-carved-domains.md) | Worked examples of how domains get carved from real work - illustrations, not plans. |
+| [Roadmap](02-roadmap.md) | How governance evolves: founder-led → federated domains → community assembly, with dates and success criteria. |
+| [Amendment Process](03-amendment-process.md) | How anyone proposes a change to the charter, bylaws, or roadmap - and how it gets decided and filed. |
+| [Treasury Wallet](04-treasury-wallet.md) | How the money is held and who can move it, from single-signer through federated multi-sig. |
+| [Onboarding Guide](05-onboarding-guide.md) | A new cooperator's first month. |
+| [Carved Domains](06-carved-domains.md) | Worked examples of how domains get carved from real work - illustrations, not plans. |
+| [Bylaws](07-bylaws.md) | The legal encoding of the charter, drafted for filing as a Serbian zadruga (workers' cooperative); no legal force until cooperators exist to register it. |
 
 **Living records** (unnumbered - appended to, not read in sequence):
 
@@ -91,4 +91,4 @@ The five core principles in the charter are the one thing that cannot be amended
 
 ## Proposing a change
 
-Funarchy works problem-first: report a **pollution** (the problem, described as a problem), then anyone may propose a **solution** (the exact new text). Full pipeline: [04-amendment-process.md](04-amendment-process.md). Anyone may report or propose - you do not need to be a member.
+Funarchy works problem-first: report a **pollution** (the problem, described as a problem), then anyone may propose a **solution** (the exact new text). Full pipeline: [03-amendment-process.md](03-amendment-process.md). Anyone may report or propose - you do not need to be a member.

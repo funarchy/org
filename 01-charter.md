@@ -1,7 +1,7 @@
 # Funarchy Charter
 
 **Adopted:** [September 2026]  
-**Status:** Open governance document - anyone can report a pollution or propose an amendment (see [04-amendment-process.md](04-amendment-process.md))
+**Status:** Open governance document - anyone can report a pollution or propose an amendment (see [03-amendment-process.md](03-amendment-process.md))
 
 ---
 
@@ -94,7 +94,7 @@ power over "what hurts" belongs to everyone from day one, in every phase.
 
 Not everything is a pollution. **Changing a rule** (charter, bylaws,
 roadmap, a standing process) goes through a pollution and lands as a
-solution - full pipeline in [04-amendment-process.md](04-amendment-process.md).
+solution - full pipeline in [03-amendment-process.md](03-amendment-process.md).
 **Applying a rule** to a case (admitting a member, approving a budget,
 executing a treasury transaction) is a decision under the phase rules
 below, recorded in `decisions.md`.
@@ -111,15 +111,25 @@ goodwill.
 
 ### Founder-Led Phase (Sep 2026 – until the second domain is carved)
 
-**Who decides?** The Founder, with input from the Partner, the Founding Adviser, and the community.
+**Who decides?** The Founder, with input from the Founding Adviser, the community, and - once joined - the Partner.
 
 **How:**
 1. Anyone (including the Founder) reports a pollution or proposes a solution in the public forum
 2. Community discusses for 1 week
 3. The Founder decides, recording rationale in `decisions.md`
-4. If community strongly disagrees, escalate to Partner/Adviser mediation
+4. If community strongly disagrees, escalate to mediation by the Founding Adviser (and the Partner, once joined)
 
 **Scope:** Strategic direction, new projects, budget allocation, member admission.
+
+**This phase begins solo.** The Partner seat is open and is filled by
+recognition, not recruitment - like every role in Funarchy, it names
+responsibility already held: sustained, real operations work done
+alongside the Founder, by someone the Founder accepts as an equal
+counterweight. The work does not wait for the seat to fill; until the
+Partner joins, the Founder decides alone and the treasury runs
+single-signer with every transaction published (see
+[04-treasury-wallet.md](04-treasury-wallet.md)). The Partner joining
+is an event within this phase, not a phase of its own.
 
 **When the Partner joins:** the Founder and the Partner govern as
 co-founders. From that day, wherever these documents say "the Founder,"
@@ -141,7 +151,7 @@ not pre-designed; its occupant designs it.**
 
 **Who decides?** Stewards of carved domains + the Founder.
 
-**Domains are carved, not pre-designed.** Funarchy always has a domain map; it starts coarse - technology (the Founder) and operations (the Partner), the founding domains. A new domain is carved from that map by the people doing real work in it, through the same pollution → solution pipeline as any other governance change. A carve proposal must show three things: sustained real work already happening in the area, more than one person doing it, and someone already taking and holding responsibility for the area, whom the others accept. That person becomes the domain's **steward** - stewardship is recognition of responsibility already held; the work exists first, the role names it. No numeric thresholds - it is judged at the decision step, case by case. The approving amendment defines the domain's scope, its steward, and how the steward is replaced, and is recorded in `amendment-log.md`. The first carved domain is delegation - still the Founder-Led Phase. This phase begins at the second, because federation means more than one steward: only then does "stewards reach consensus" mean anything. The switch is the event, not the calendar. If this feels abstract, [07-carved-domains.md](07-carved-domains.md) walks through worked examples - two carves that pass the test, and one that fails it.
+**Domains are carved, not pre-designed.** Funarchy always has a domain map; it starts coarse - technology (the Founder) and operations (the Partner), the founding domains. A new domain is carved from that map by the people doing real work in it, through the same pollution → solution pipeline as any other governance change. A carve proposal must show three things: sustained real work already happening in the area, more than one person doing it, and someone already taking and holding responsibility for the area, whom the others accept. That person becomes the domain's **steward** - stewardship is recognition of responsibility already held; the work exists first, the role names it. No numeric thresholds - it is judged at the decision step, case by case. The approving amendment defines the domain's scope, its steward, and how the steward is replaced, and is recorded in `amendment-log.md`. The first carved domain is delegation - still the Founder-Led Phase. This phase begins at the second, because federation means more than one steward: only then does "stewards reach consensus" mean anything. The switch is the event, not the calendar. If this feels abstract, [06-carved-domains.md](06-carved-domains.md) walks through worked examples - two carves that pass the test, and one that fails it.
 
 **How:**
 1. Pollutions and solutions flow exactly as before - the mechanics never change between phases
@@ -226,7 +236,7 @@ This charter is alive. It changes as we learn and grow.
 4. Decision: the Founder (Founder-Led Phase), steward consensus (Federated Phase), or assembly vote (Assembly Phase)
 5. If approved, the solution lands in this document and is recorded in `amendment-log.md`
 
-Full pipeline: [04-amendment-process.md](04-amendment-process.md).
+Full pipeline: [03-amendment-process.md](03-amendment-process.md).
 
 **What cannot change:** The five core principles are non-negotiable. If a future Funarchy wants different values, they should fork.
 
@@ -235,7 +245,7 @@ Full pipeline: [04-amendment-process.md](04-amendment-process.md).
 ## How This Document Relates to Bylaws
 
 - **Charter** = our values and promises to each other (this document)
-- **Bylaws** = the legal rules filed with the Serbian government (`02-bylaws.md`)
+- **Bylaws** = the legal rules filed with the Serbian government (`07-bylaws.md`)
 - Both must align; if they diverge, the charter guides updates to the bylaws
 
 ---

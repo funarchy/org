@@ -19,7 +19,10 @@ coarse - technology (the Founder) and operations (the Partner), the
 founding domains - and finer domains are carved from it as real work
 demands. The first carve is delegation; the Federated Phase begins at
 the second, when consensus among stewards becomes possible. The
-dates are estimates and stay estimates.
+Founder-Led Phase begins solo: the Partner joining is likewise an
+event within it, not a phase of its own (see the transition clause
+in [01-charter.md](01-charter.md)). The dates are estimates and stay
+estimates.
 
 ---
 
@@ -27,31 +30,53 @@ dates are estimates and stay estimates.
 
 ### Goals
 
-- Register cooperativa with Serbian authorities
+- Establish legal footing as an event-driven ladder (see below); cooperativa registration happens when cooperators exist to register it - it is not a launch gate
 - Publish bylaws, charter, and governance roadmap
 - Begin releasing the core products as stable open-source projects (per-product targets: [products/](products/README.md))
 - Recruit first 1–2 cooperators
 - Establish the treasury (single-signer with public reporting; multi-sig when the Partner joins) and first revenue streams
 - Build public trust and community presence
 
+### Legal Form: An Event-Driven Ladder
+
+Like the treasury (single-signer → multi-sig) and the Partner seat
+(open → filled by recognition), the legal form upgrades on events,
+not dates. The entity names a reality that already exists; it never
+precedes it.
+
+| Stage | Legal form | Covers | Trigger |
+|-------|-----------|--------|---------|
+| Now | None - the Founder personally | Code, governance, community | already here |
+| First revenue | The Founder's preduzetnik | Invoicing (SaaS, consulting), basic liability | first paying customer |
+| Cooperators exist | Cooperativa (zadruga) | Shared legal ownership, the treasury held by the entity | enough cooperators to register (legal minimum: verify with counsel) |
+
+Honest notes:
+- Until an entity holds the treasury, donated funds are legally the
+  Founder's personal income. The monthly reports make this visible
+  rather than hiding it; a fiscal host is the interim option if
+  donations grow beyond small amounts.
+- Registering a cooperative without cooperators would be the entity
+  preceding the reality - the same mistake as recruiting a Partner
+  instead of recognizing one.
+
 ### Decision-Making Structure
 
 - **Primary:** the Founder (jkbo) - joint with the Partner from the day the partnership begins ("the Founders, jointly"; see the transition clause in [01-charter.md](01-charter.md))
-- **Advisory:** the Founding Adviser (informal); the Partner until joining
+- **Advisory:** the Founding Adviser (informal)
 - **Community input:** pollutions and solutions in the public forum ([tooling.md](tooling.md)); the Founder retains final say
 - **Scope:** Strategic direction, budget, hiring, major project decisions
 
 ### Milestones & Deadlines
 
 **August 2026 (Preparation)**
-- [ ] Partner alignment: share the docs before the first meeting (~Aug 3), resolve role shape, operational split, crypto comfort
+- [ ] Partner track: ongoing and event-driven, never a gate - the seat fills by recognition of operations responsibility already held (see [01-charter.md](01-charter.md)); no other milestone waits on it
 - [ ] First-cooperator track: arrange the employer contract (3–12 months, projects touching Funarchy's open-source products)
 - [ ] Draft bylaws and charter (this repo, reviewed with the Founding Adviser and legal counsel)
-- [ ] Set up the treasury wallet (single-signer; multi-sig upgrade on Partner joining - see [05-treasury-wallet.md](05-treasury-wallet.md))
+- [ ] Set up the treasury wallet (single-signer; multi-sig upgrade on Partner joining - see [04-treasury-wallet.md](04-treasury-wallet.md))
 - [ ] Create the governance document structure (this repository)
 
-**September 2026 (Registration & Launch)**
-- [ ] File cooperativa registration with Serbian Ministry of Economy
+**September 2026 (Launch)**
+- [ ] Legal footing: verify the Founder's preduzetnik is active and usable for invoicing; evaluate a fiscal host for donations (see the legal-form ladder above)
 - [ ] Publish bylaws, charter, roadmap in the public record (currently GitHub - see [tooling.md](tooling.md))
 - [ ] Release Space and RPPS as stable projects (documentation, guides); scenepad extraction continues
 - [ ] Publish blog post series (three posts: vision, finance, governance)
@@ -68,7 +93,7 @@ dates are estimates and stay estimates.
 
 ### Success Criteria: Founder-Led Phase
 
-- ✅ Cooperativa legally registered in Serbia
+- ✅ Legal footing matches the ladder stage: every active revenue stream runs through a registered form; treasury custody stated honestly in monthly reports
 - ✅ Bylaws, charter, roadmap live and public
 - ✅ Treasury funded and transparent (monthly public reports)
 - ✅ Space and RPPS stable and documented; scenepad extraction well underway
@@ -94,7 +119,7 @@ dates are estimates and stay estimates.
 is carved via the amendment process.** That event is the switch: the
 first carve is delegation inside the Founder-Led Phase; the second
 makes consensus among stewards real. Signs the organization is ready:
-- Cooperativa is stably registered (2+ months in)
+- Cooperativa registered and stable - the ladder's last rung, reached because cooperators existed to register it
 - At least 1–2 cooperators recruited and productive
 - Revenue streams beginning to flow (even small amounts)
 - Community interest and contributions growing (10+ active community members)
@@ -109,7 +134,7 @@ makes consensus among stewards real. Signs the organization is ready:
   map by the people doing real work in it, and its steward is not a
   Founder
 - Anyone may propose a carve via the amendment process
-  ([04-amendment-process.md](04-amendment-process.md))
+  ([03-amendment-process.md](03-amendment-process.md))
 - The proposal must show three things: sustained real work already
   happening in the area, more than one person doing it, and someone
   already taking and holding responsibility for the area, whom the
@@ -119,7 +144,7 @@ makes consensus among stewards real. Signs the organization is ready:
   and how the steward is replaced; it is recorded in
   `amendment-log.md`
 - Worked examples of carves - including one that fails the test:
-  [07-carved-domains.md](07-carved-domains.md)
+  [06-carved-domains.md](06-carved-domains.md)
 
 **Decision-Making:**
 - Domain-internal: Domain steward decides (with team input)
@@ -271,6 +296,12 @@ carved (via the amendment process).** Readiness signs:
 
 **Risk:** Community members don't show up for assembly  
 **Mitigation:** Async participation options; incentivize with recognition, small grants, or decision impact
+
+**Risk:** Donations arrive while the treasury is single-signer (no counterweight on outflows)  
+**Mitigation:** Every transaction published monthly with on-chain links; the multi-sig upgrade is the first joint act when the Partner joins ([04-treasury-wallet.md](04-treasury-wallet.md))
+
+**Risk:** The solo start becomes comfortable; the Partner seat stays open indefinitely  
+**Mitigation:** The seat fills from public work, not recruitment - operations gaps are named honestly in monthly reports, so responsibility has something visible to accrete around
 
 ---
 

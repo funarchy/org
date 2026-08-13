@@ -7,8 +7,8 @@ method self-containedly and applies it to governance.
 Amendments touch three governing documents:
 
 1. **Charter** ([01-charter.md](01-charter.md)) - values, principles, decision-making
-2. **Bylaws** ([02-bylaws.md](02-bylaws.md)) - the legal encoding, filed with the Serbian registry
-3. **Roadmap** ([03-roadmap.md](03-roadmap.md)) - timeline, milestones, success criteria
+2. **Roadmap** ([02-roadmap.md](02-roadmap.md)) - timeline, milestones, success criteria
+3. **Bylaws** ([07-bylaws.md](07-bylaws.md)) - the legal encoding, filed with the Serbian registry when the cooperativa is registered
 
 They are connected: charter changes often require bylaw updates; major
 roadmap shifts need charter approval.

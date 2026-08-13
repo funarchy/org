@@ -2,11 +2,14 @@
 
 **Legal Entity:** Workers' Cooperative (Zadruga)  
 **Jurisdiction:** Serbia  
-**Effective Date:** [To be filed September 2026]
+**Effective Date:** [filed at cooperativa registration - an event, not a date; see the legal-form ladder in [02-roadmap.md](02-roadmap.md)]
 
 > This is the open working draft. People appear as roles (Founder, Founding Adviser,
 > Partner, cooperators); the filed Serbian version substitutes legal identities and
-> is translated with legal counsel.
+> is translated with legal counsel. **These bylaws have no legal force until the
+> cooperativa is registered.** Until then the charter alone governs - as a promise
+> between people, which is what it is either way. This draft exists so that the
+> translation into Serbian law is ready when cooperators exist to file it.
 
 ## I. Founding & Core Purpose
 
@@ -52,7 +55,7 @@ The cooperative is established for an indefinite period.
 - Contribute to cooperative's mission (minimum: governance participation)
 
 ### Article 6: Admitting New Members
-- Founder-Led Phase: the Founder approves new members (with Partner/Adviser input)
+- Founder-Led Phase: the Founder approves new members (with input from the Adviser, and the Partner once joined)
 - Federated Phase: stewards of carved domains + the Founder reach consensus
 - Assembly Phase: the community assembly votes on new members
 - All new members must sign the charter agreement and pledge to uphold the five principles
@@ -68,7 +71,7 @@ Article 8 (estimated ~6 months)
 
 **Decision-Making:**
 - The Founder makes strategic decisions
-- The Partner and Founding Adviser provide input
+- The Founding Adviser provides input (and the Partner, once joined - the phase begins solo, with the Partner seat open)
 - Anyone may report pollutions and propose solutions in the public forum (Article 10); the Founder retains the final decision
 - Process: pollution → public priority (assigned by the Founder) → solution → 1-week discussion → decision → recorded in the decision log
 
@@ -242,7 +245,7 @@ Published on the 1st of each month in the public record:
 
 ### Article 14: Disagreements & Escalation
 
-1. **Founder-Led Phase:** the Founder consults Partner/Adviser and proposes resolution
+1. **Founder-Led Phase:** the Founder consults the Adviser (and the Partner, once joined) and proposes resolution
 2. **Federated Phase:** Domain stewards seek consensus; if stuck, the Founder mediates
 3. **Assembly Phase:** the community assembly votes on the dispute
 
