@@ -65,20 +65,26 @@ pass); the bylaws, roadmap, and the rest are still in progress and read
 accordingly. This repository is itself the first demonstration of the
 workflow Funarchy exists to build.
 
-## The open seat
+## The Partner seat
 
-I am looking for a **partner** - not an employee, not an investor, an
-equal. **2-of-2 from the day the partnership begins:** strategic
-decisions require both of us, the treasury requires both keys (the
-multi-sig upgrade is the same event), and if we disagree, the change
-simply does not happen. Until that day the phase runs solo - I decide
-alone and the treasury is single-signer with every transaction
-published - and the seat fills by recognition of operations work
-already being done alongside me, not by recruitment. Capital is not
-the ask; shared authority and the operational half of the organization
-are. The partnership terms are deliberately not pre-designed -
-co-writing them is the first joint act (the full transition clause is
-in the [charter](01-charter.md)).
+The charter names a **Partner** seat - the operational half of the
+organization and the governance counterweight to the Founder: once
+filled, strategic decisions require both Founders, the treasury
+requires both keys (the multi-sig upgrade is the same event), and if
+the two disagree, the change simply does not happen (the full
+transition clause is in the [charter](01-charter.md)). Until that
+day the phase runs solo - I decide alone and the treasury is
+single-signer with every transaction published.
+
+This page is not a posting, and nobody is being recruited. Like
+every role in Funarchy, the seat fills by **recognition of
+responsibility already held**: sustained, real operations work done
+alongside the Founder, by someone the Founder accepts as an equal
+counterweight. For someone drawn to that work, the door is the same
+one everyone walks through: the public record and its open problems.
+There are no partnership terms, no salary, and no treasury on offer
+today - an invitation implying otherwise would be one this record
+cannot back.
 
 ## Read this
 

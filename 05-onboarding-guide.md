@@ -165,7 +165,7 @@ in your first weeks. Examples:
 - **Code/Projects:** the Space source, `math/`, `scenepad/`
 - **Communication:** Slack/Discord
 - **Decisions:** `decisions.md` (why we chose X)
-- **People:** jkbo, the Partner, other cooperators
+- **People:** jkbo and the cooperators who joined before you
 
 ---
 
