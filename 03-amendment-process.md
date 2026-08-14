@@ -8,7 +8,7 @@ Amendments touch three governing documents:
 
 1. **Charter** ([01-charter.md](01-charter.md)) - values, principles, decision-making
 2. **Roadmap** ([02-roadmap.md](02-roadmap.md)) - timeline, milestones, success criteria
-3. **Bylaws** ([07-bylaws.md](07-bylaws.md)) - the legal encoding, filed with the Serbian registry when the cooperativa is registered
+3. **Bylaws** ([07-bylaws.md](07-bylaws.md)) - the legal encoding, the foundation's statute, filed with the Serbian registry when the foundation is registered
 
 They are connected: charter changes often require bylaw updates; major
 roadmap shifts need charter approval.
@@ -24,8 +24,8 @@ that means a change to the charter, bylaws, roadmap, or a standing process.
 
 The split is deliberate and it distributes power:
 
-- **Reporting a pollution requires no authority.** Anyone - member,
-  cooperator, outside contributor - can say "this hurts" without knowing
+- **Reporting a pollution requires no authority.** Anyone - cooperator,
+  outside contributor, passer-by - can say "this hurts" without knowing
   or deciding what to do about it.
 - **Proposing a solution requires no authority either.** Anyone can answer
   an open pollution, including with a competing proposal.
@@ -46,10 +46,10 @@ and openness principles.
 and lands as a solution.
 
 **Decisions do not.** Applying existing rules to a case - admitting a
-member, approving a budget, executing a treasury transaction, scheduling
+cooperator, approving a budget, executing a treasury transaction, scheduling
 an assembly - is a decision under the current phase rules, recorded in
 `decisions.md`. Do not write a fake pollution ("Pollution: Alice is not
-yet a member") to dress a decision as a problem; that corrodes the
+yet a cooperator") to dress a decision as a problem; that corrodes the
 problem-first discipline.
 
 **The boundary rule:** changes a rule → pollution. Applies a rule → decision.
@@ -66,7 +66,7 @@ with these required fields:
 [The problem as observed - behavior, harm, friction. Not a fix.]
 
 ## Who it affects and how
-[Members, cooperators, community, outsiders?]
+[Cooperators, community, outsiders?]
 
 ## Cost of not fixing
 [What decays if this stays as it is?]
@@ -109,7 +109,7 @@ Funarchy's own governance instruments.
 ## What's polluted
 The charter requires assembly votes to reach 70% support, but abstentions
 count against the threshold. Two proposals with clear majority support
-have failed because quorum-but-abstaining members were counted as "no".
+have failed because quorum-but-abstaining cooperators were counted as "no".
 
 ## Who it affects and how
 Every assembly participant; proposals die that the community actually wants.
@@ -191,10 +191,10 @@ tomorrow, every landed amendment, rationale, and verdict survives in git.
 before filing:
 
 - Governance phases (Founder-Led, Federated, Assembly)
-- Membership criteria
+- Who is admitted to the work, and how the governing board is seated
 - Decision-making rules
 - Dissolution clause
-- Financial distribution policy
+- The non-distribution constraint and how surplus is used
 
 **Tooling bindings:** via [tooling.md](tooling.md) - same pipeline, one-line
 landing.
@@ -216,7 +216,7 @@ Before approving a solution:
 - [ ] **What breaks?** Existing decisions, processes, or practices that
       contradict it?
 - [ ] **Is the timing right?**
-- [ ] **Is the language clear?** Would a new member understand it?
+- [ ] **Is the language clear?** Would a new cooperator understand it?
 - [ ] **Do we have consensus (Federated and Assembly Phases)?** Genuine
       agreement, not a decision forced on dissenters?
 

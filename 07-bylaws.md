@@ -1,64 +1,94 @@
-# Funarchy Zadruga - Bylaws (Working Draft)
+# Funarchy Foundation - Bylaws (Working Draft)
 
-**Legal Entity:** Workers' Cooperative (Zadruga)  
+**Legal Entity:** Non-profit foundation (fondacija) - a legal person without members  
 **Jurisdiction:** Serbia  
-**Effective Date:** [filed at cooperativa registration - an event, not a date; see the legal-form ladder in [02-roadmap.md](02-roadmap.md)]
+**Effective Date:** [filed at foundation registration - an event, not a date; see the legal-form ladder in [02-roadmap.md](02-roadmap.md)]
 
 > This is the open working draft. People appear as roles (Founder, Founding Adviser,
 > Partner, cooperators); the filed Serbian version substitutes legal identities and
 > is translated with legal counsel. **These bylaws have no legal force until the
-> cooperativa is registered.** Until then the charter alone governs - as a promise
+> foundation is registered.** Until then the charter alone governs - as a promise
 > between people, which is what it is either way. This draft exists so that the
-> translation into Serbian law is ready when cooperators exist to file it.
+> translation into Serbian law is ready when the foundation is filed.
+>
+> These bylaws are the foundation's **statute**. Read "bylaws" and "statute"
+> as the same document throughout; the Serbian filing knows it as a statut.
+> The legal groundwork behind the form is in
+> [research/legal-form.md](research/legal-form.md), which binds nothing.
 
 ## I. Founding & Core Purpose
 
 ### Article 1: Name & Legal Status
-The cooperative is named **Funarchy**, a workers' cooperative established under Serbian law for the purpose of developing and maintaining open-source cooperative workflows, educational software, and anarchist digital governance models.
+The foundation is named **Funarchy**, a non-profit foundation (*fondacija*) established under Serbian law - a legal person without members - for the purpose of developing and maintaining open-source cooperative workflows, educational software, and anarchist digital governance models.
+
+Funarchy has no members, no shares, and no owners. Nobody holds a claim on it, and nobody can acquire one; there is nothing to buy, inherit, or sell. This is not a policy the foundation adopts and could later drop - it is what the legal form is.
 
 ### Article 2: Core Operating Principles
 
 Funarchy commits to five non-negotiable principles, encoded in all decision-making and financial practices:
 
 1. **Openness:** All decisions, code, and finances are public and transparent
-2. **Non-exploitation:** No individual member accumulates wealth from cooperative labor; surplus is reinvested or distributed equitably
+2. **Non-exploitation:** Nobody accumulates wealth from Funarchy's labor; surplus is reinvested in the mission and never distributed
 3. **Sovereignty:** No single funder or entity controls strategic direction; governance is community-based
 4. **Permissionlessness:** All work produced by Funarchy is freely available and forkable by anyone
 5. **Co-benefit:** All work serves both Funarchy's mission and the broader cooperative/open-source movement
 
 ### Article 3: Duration
-The cooperative is established for an indefinite period.
+The foundation is established for an indefinite period.
 
 ---
 
-## II. Membership & Governance Structure
+## II. People & Governance Structure
 
 ### Article 4: Founding Roles
 
-- **Founder (jkbo):** Serbia-based sole legal member at founding; primary decision-maker in the Founder-Led Phase
-- **Founding Adviser:** informal advisory role outside the legal structure; contributes via an existing salary-split arrangement; no voting rights, no treasury authority
-- **Partner (position open):** equal operational partner and governance counterweight, structured contractually until Serbian membership requirements can be satisfied; expected to share the five principles and own the operational half of the organization. On joining, decision-making becomes joint per the partnership transition clause (Article 7)
-- Additional members may be admitted per Article 6
+Because the foundation has no members, nobody's standing here comes from
+a share. It comes from the founding act, from this statute, and from work
+actually done.
 
-### Article 5: Member Rights & Responsibilities
+- **Founder (jkbo):** Serbia-based founder and the foundation's first legal representative; primary decision-maker in the Founder-Led Phase. The founding act confers no ownership and no residual claim
+- **Founding Adviser:** informal advisory role outside the legal structure; contributes via an existing salary-split arrangement; no voting rights, no treasury authority
+- **Partner (position open):** equal operational partner and governance counterweight, structured contractually and then by a seat on the governing board; expected to share the five principles and hold the operational half of the organization. On joining, decision-making becomes joint per the partnership transition clause (Article 7)
+- **Cooperators:** the people who do Funarchy's work, paid for it. They join per Article 6 and hold the rights in Article 5
+- **Governing board:** the organ that decides for the foundation. Its seats follow the governance phase, per Article 6
+
+### Article 5: Cooperators' Rights & Responsibilities
 
 **Rights:**
 - Participate in decision-making (as per the governance phase rules, Articles 7–9)
-- Receive equitable distribution of surplus or benefits
-- The legally enforceable right to demand any financial or operational record - normally redundant, since everything is public by default (Openness), but it gives members standing to act if transparency ever fails
-- Right to propose amendments to bylaws
+- Be paid fairly for their labor, at or above market rates. Nobody receives a share of surplus, because there are no shares - see Article 12
+- The legally enforceable right to demand any financial or operational record - normally redundant, since everything is public by default (Openness), but it gives cooperators standing to act if transparency ever fails
+- Right to propose amendments to these bylaws
 
 **Responsibilities:**
 - Uphold the five core principles in all work
 - Participate in governance (monthly or quarterly as per phase)
 - Maintain transparency in all transactions
-- Contribute to cooperative's mission (minimum: governance participation)
+- Contribute to Funarchy's mission (minimum: governance participation)
 
-### Article 6: Admitting New Members
-- Founder-Led Phase: the Founder approves new members (with input from the Adviser, and the Partner once joined)
+### Article 6: Joining the Work & Seating the Board
+
+**Admitting a cooperator** applies these rules rather than changing them, so
+it is a decision, not an amendment (Article 10):
+
+- Founder-Led Phase: the Founder approves new cooperators (with input from the Adviser, and the Partner once joined)
 - Federated Phase: stewards of carved domains + the Founder reach consensus
-- Assembly Phase: the community assembly votes on new members
-- All new members must sign the charter agreement and pledge to uphold the five principles
+- Assembly Phase: the community assembly votes
+- Everyone joining signs the charter agreement and pledges to uphold the five principles
+
+**Seating the governing board** follows the same phase ladder, so that the
+people who decide for the foundation are the people doing its work:
+
+| Phase | Governing board |
+|-------|-----------------|
+| Founder-Led, solo | the Founder |
+| Founder-Led, Partner joined | the Founder + the Partner |
+| Federated | + the steward of each carved domain, as domains are carved |
+| Assembly | seated by the cooperators, per the voting mechanism designed in the Federated Phase |
+
+A board seat is a role like any other in Funarchy: it names responsibility
+already held, it is revocable, and how it is replaced is defined when it is
+created. It confers no claim on the foundation's property (Article 12).
 
 ---
 
@@ -83,7 +113,7 @@ treasury converts to two-signature control in the same act (Article 11).
 If the two cannot agree, no change is made: the status quo holds and the
 disagreement goes to mediation. Day-to-day authority is split into the
 two founding domains - the Founder over technology, the Partner over
-operations - the first, coarse version of the cooperative's domain map. **The detailed
+operations - the first, coarse version of Funarchy's domain map. **The detailed
 partnership terms are co-written with the Partner as one of the first
 joint acts.**
 
@@ -100,7 +130,7 @@ joint acts.**
 article (estimated 2027)
 
 **Structure:**
-- The cooperative always has a domain map; it starts as the two
+- Funarchy always has a domain map; it starts as the two
   founding domains of Article 7 - technology (the Founder) and
   operations (the Partner)
 - Domains are carved, not pre-designed: a new domain is carved from
@@ -150,7 +180,7 @@ Funarchy amends its governing rules through a problem-first process:
 
 - A **pollution** is a reported problem - a harm, friction, or unclearance,
   described as observed, never as a prescribed fix. Any person may report
-  a pollution; no membership or authority is required.
+  a pollution; no position in Funarchy and no authority is required.
 - A **solution** is a concrete proposed change to the governing documents
   that answers one or more pollutions. Any person may propose a solution,
   including a competing one.
@@ -179,7 +209,7 @@ Funarchy amends its governing rules through a problem-first process:
 7. **Publish:** amendment history recorded in
    `amendment-log.md` with rationale
 
-Decisions that apply existing rules to a case (member admission, budget
+Decisions that apply existing rules to a case (cooperator admission, budget
 approval, treasury execution) do not require a pollution; they follow the
 phase rules of Articles 7–9 and are recorded in the decision log.
 
@@ -190,7 +220,10 @@ phase rules of Articles 7–9 and are recorded in the decision log.
 > lawyer before filing. The same question applies to "anarchist digital
 > governance models" in the Article 1 purpose clause - the filed version
 > may prefer a descriptive gloss (e.g., "horizontal self-governance
-> models").
+> models"). That second question now carries more weight than it did as
+> a cooperative: a foundation's purpose must register as a public-benefit
+> goal (*opštekorisni cilj*) and its pursuit of that goal is supervised.
+> The purpose clause is no longer only a matter of tone.
 
 ---
 
@@ -215,15 +248,25 @@ phase rules of Articles 7–9 and are recorded in the decision log.
 - Founder: Funarchy currently covers 3,500 USD/month (half of a 7K total income, the other half paid by the Founder's current employer); Funarchy's share grows toward 6,500 USD/month (10K total) only as revenue allows
 - Cooperators: paid from treasury as revenue grows; the first cooperator lands via an employer contract at no treasury cost
 - All payments logged on-chain
+- Paying people is not distributing surplus. Wages, appropriate awards, and reimbursement of justified costs are what the work costs; Serbian law permits a foundation to pay them, and Article 12 forbids everything beyond them
 
-### Article 12: Surplus Distribution & Non-Profit Status
+### Article 12: The Non-Distribution Constraint
 
-- The cooperative shall not accumulate surplus; all income is reinvested or distributed
-- Distribution options: member compensation, new projects, equipment, community grants
-- Decision authority follows the phase rules (Articles 7–9)
-- All distribution decisions published in the monthly treasury report
+**Funarchy's property may not be divided among its founders, the members of
+its governing board, or its employees.** There is no distribution of
+surplus, no dividend, no buyout, and no share to sell. This is the
+constraint the legal form exists to carry, and it is the one clause that
+cannot be satisfied by good intentions.
 
-**Tax Treatment:** registered as a worker cooperative in Serbia; income used for mission-aligned work only. Exact tax status to be confirmed with Serbian legal counsel before filing.
+- Nor is surplus accumulated. Income is spent on the mission: paying the people who do the work, new projects, equipment, and grants to allied projects
+- The permitted payments to people are wages for labor, appropriate awards, and reimbursement of justified costs (Article 11). These are not distributions - they are what work costs
+- Grants to allied cooperative and open-source projects are mission spending under Co-benefit, not a distribution: the recipients are outside Funarchy and hold no position in it
+- Decision authority over how income is spent follows the phase rules (Articles 7–9)
+- All spending decisions published in the monthly treasury report
+
+**Tax Treatment:** registered as a non-profit foundation in Serbia. Donations and grants received are not taxed; profit remaining from economic activity is subject to corporate income tax at the standard rate, and the small-surplus exemption available to non-profits is out of reach at Funarchy's intended pay levels - a cost of paying people properly, accepted knowingly. Detail and sources in [research/legal-form.md](research/legal-form.md). Exact treatment to be confirmed with Serbian legal counsel and an accountant before filing.
+
+**A limit worth stating plainly:** a Serbian foundation may conduct commercial activity only as an *ancillary* activity. If hosting and consulting grow into Funarchy's principal income, the trading moves into a company the foundation wholly owns - the fourth rung of the legal-form ladder in [02-roadmap.md](02-roadmap.md). The foundation keeps the mission, the governance, and this article. Where that line falls is a question for counsel, and it is open.
 
 ---
 
@@ -257,9 +300,9 @@ Unresolved disputes may require external mediation (process defined in the Feder
 
 ### Article 15: Dissolution
 
-If the cooperative dissolves:
-- All assets (code, IP, treasury) transfer to a community-controlled entity or fund aligned with Funarchy's five principles
-- Members do not receive personal benefit from dissolution
+If the foundation dissolves:
+- All assets (code, IP, treasury) transfer to another Serbian endowment, foundation, or association aligned with Funarchy's five principles - which is also the only thing Serbian law permits a dissolved foundation's assets to do
+- No founder, board member, employee, or cooperator receives personal benefit from dissolution
 - Code remains open-source; no single entity gains control
 
 ---
@@ -268,7 +311,7 @@ If the cooperative dissolves:
 
 ### Article 16: Official Record
 
-- The filed Serbian document is the legal bylaws
+- The filed Serbian document is the legal statute
 - The repository version tracks all amendments and is the working source of truth between filings; the repository is the public record and does not depend on any single hosting platform (bindings in `tooling.md`)
 - All filed amendments recorded in `amendment-log.md` with dates and rationale
 
@@ -280,6 +323,6 @@ These bylaws may be amended via the process in Article 10.
 
 ## Signatures & Filing
 
-**Founding Member:** [legal identity substituted at filing]  
+**Founder:** [legal identity substituted at filing]  
 **Date of Filing:** [September 2026]  
 **Registry Reference:** [assigned upon filing]
