@@ -37,7 +37,7 @@ The cooperative is established for an indefinite period.
 
 - **Founder (jkbo):** Serbia-based sole legal member at founding; primary decision-maker in the Founder-Led Phase
 - **Founding Adviser:** informal advisory role outside the legal structure; contributes via an existing salary-split arrangement; no voting rights, no treasury authority
-- **Partner (position open):** equal operational partner and governance counterweight, structured contractually until Serbian membership requirements can be satisfied; expected to share the five principles and own the operational half of the organization. On joining, decision-making becomes joint per the partnership transition clause (Article 7)
+- **Partner (seat unfilled, fills by recognition, not recruitment):** equal operational partner and governance counterweight, structured contractually until Serbian membership requirements can be satisfied; expected to share the five principles and own the operational half of the organization. On joining, decision-making becomes joint per the partnership transition clause (Article 7)
 - Additional members may be admitted per Article 6
 
 ### Article 5: Member Rights & Responsibilities
