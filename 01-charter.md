@@ -255,7 +255,7 @@ Full pipeline: [03-amendment-process.md](03-amendment-process.md).
 **jkbo** - Founder & Primary Coordinator (Founder-Led Phase)  
 **Date:** [September 2026]
 
-**Partner** - position open (equal operational partner & governance counterweight)  
+**Partner** - seat unfilled, fills by recognition, not recruitment (equal operational partner & governance counterweight)  
 
 **Founding Adviser** - informal advisory role, outside the regulated flow
 

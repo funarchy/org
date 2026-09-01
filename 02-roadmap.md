@@ -69,7 +69,6 @@ Honest notes:
 ### Milestones & Deadlines
 
 **August 2026 (Preparation)**
-- [ ] Partner track: ongoing and event-driven, never a gate - the seat fills by recognition of operations responsibility already held (see [01-charter.md](01-charter.md)); no other milestone waits on it
 - [ ] First-cooperator track: arrange the employer contract (3–12 months, projects touching Funarchy's open-source products)
 - [ ] Draft bylaws and charter (this repo, reviewed with the Founding Adviser and legal counsel)
 - [ ] Set up the treasury wallet (single-signer; multi-sig upgrade on Partner joining - see [04-treasury-wallet.md](04-treasury-wallet.md))
